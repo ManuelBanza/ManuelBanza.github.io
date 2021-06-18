@@ -3,7 +3,7 @@ layout: post
 title: Predicting Hotel Booking Cancellations Using Machine Learning
 date: 2020-06-15 00:00:00 +0300
 description: A step by step guide to predict hotel booking cancellations using python. # Add post description (optional)
-img: hotel_cancelations.jpg # Add image post (optional)
+img: hotel_cancelations.png # Add image post (optional)
 tags: [python, machine learning, data science, hospitality] # add tag
 ---
 ## Business Problem
