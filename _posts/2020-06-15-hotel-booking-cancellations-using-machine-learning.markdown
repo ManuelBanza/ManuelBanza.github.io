@@ -18,7 +18,7 @@ Accuracy - 90%
 Precision - 88%
 Recall - 84%
 
-![Interpreting the Model]({{site.baseurl}}/assets/img/shap.jpg)
+![Interpreting the Model]({{site.baseurl}}/assets/img/shap.png)
 
 
 This was original posted on my LinkedIn profile and you can find the full post [HERE](https://www.linkedin.com/pulse/u-hotel-booking-cancellations-using-machine-learning-manuel-banza/)

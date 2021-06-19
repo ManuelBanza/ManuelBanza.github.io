@@ -3,7 +3,7 @@ layout: post
 title: Web Summit 2019 - Data Science Approach
 date: 2019-11-16 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: websummit.jpg # Add image post (optional)
+img: websummit.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [data science, websummit, events, power bi, web scraping] # add tag
 ---
@@ -21,7 +21,7 @@ In the second part I will talk about patterns and insights that it has been poss
 
 ## Pace (Evolution)
 
-![Dashboard]({{site.baseurl}}/assets/img/websummit_dashboard.jpg)
+![Dashboard]({{site.baseurl}}/assets/img/websummit_dashboard.jpeg)
 
 This was original posted on my LinkedIn profile and you can find the full post [HERE](https://www.linkedin.com/pulse/web-summit-2019-data-science-approach-manuel-banza/)
 
