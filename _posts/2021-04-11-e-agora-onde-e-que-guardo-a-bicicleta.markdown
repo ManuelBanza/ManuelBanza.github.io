@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jornal A Mensagem - E agora, onde é que guardo a bicicleta? Guia e mapa para saber estacionar na cidade
-date: 2017-04-06 13:32:20 +0300
+date: 2021-04-11 00:00:00 +0300
 description: Com o anúncio dos novos parques da Emel, a questão voltou. Quem tem bicicleta, onde pode guardá-la? Aqui mostramos onde estão os lugares legais e qual a forma mais segura, cadeados e afins. Guia para o desenrascanço. # Add post description (optional)
 img: mensagem.png # Add image post (optional)
 tags: [mobilidade, bicicleta, python, estacionamento, mapas] # add tag
