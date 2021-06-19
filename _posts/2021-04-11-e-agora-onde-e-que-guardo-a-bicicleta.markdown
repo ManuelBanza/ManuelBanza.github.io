@@ -10,7 +10,7 @@ tags: [mobilidade, bicicleta, python, estacionamento, mapas] # add tag
 
 ## Mapa de Estacionamento
 
-<iframe src="/assets/img/Parques_Bicicleta.html" height="800px" width="100%"></iframe>
+<iframe src="/assets/img/Parques_Bicicleta.html" height="500px" width="100%"></iframe>
 
 Para ver mapa interactivo clique [AQUI](https://manuelbanza.github.io/mapaarroios.github.io/Parques_Bicicleta.html)
 
