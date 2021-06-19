@@ -18,5 +18,9 @@ O conceito foi originalmente criado por Carlos Moreno, Professor universitário,
 Carlos Moreno defende a ideia que a melhor mobilidade é aquela que é mais reduzida e que garante a acessibilidade a tudo o que precisamos para o nosso dia a dia. Sendo que essa distância deverá ser até 15 mins, seja a pé ou de bicicleta.
 O objectivo é tornar cidades e bairros em locais vibrantes, cheios de vida e interação humana, trazendo o sentido de comunidade. Devolver as cidades às pessoas combatendo as alterações climáticas e tornando-as mais sustentáveis.
 
+## Exemplo de Alvalade
+
+![Modelos dos 15 mins em Alvalade]({{site.baseurl}}/assets/img/alvalade2.gif)
+
 # Para ver o artigo e projeto completo clique [AQUI](https://lisboa---cidade-de-15-minutos.webnode.pt/)
 

@@ -22,3 +22,5 @@ Recall - 84%
 
 
 This was original posted on my LinkedIn profile and you can find the full post [HERE](https://www.linkedin.com/pulse/u-hotel-booking-cancellations-using-machine-learning-manuel-banza/)
+
+There is also a version of this article in Spanish translated by Jaime Chicheri [HERE](https://tecnohotelnews.com/2021/03/01/prediccion-de-cancelaciones-de-reservas-mediante-machine-learning/)
