@@ -24,5 +24,3 @@ In the second part I will talk about patterns and insights that it has been poss
 ![Dashboard]({{site.baseurl}}/assets/img/websummit_dashboard.jpeg)
 
 This was original posted on my LinkedIn profile and you can find the full post [HERE](https://www.linkedin.com/pulse/web-summit-2019-data-science-approach-manuel-banza/)
-
-There is also a version of this article in Spanish translated by Jaime Chicheri [HERE](https://tecnohotelnews.com/2021/03/01/prediccion-de-cancelaciones-de-reservas-mediante-machine-learning/)
