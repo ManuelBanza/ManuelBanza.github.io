@@ -17,7 +17,7 @@ Entre as 24 freguesias da cidade, oito registaram subidas iguais ou superiores a
 
 
 ## Percentagem de Propriedades que se Mantêm no Airbnb
-<iframe src="/assets/img/Propriedades Europa.htm" height="400px" width="80%"></iframe>
+<iframe src="/assets/img/Propriedades Europa.htm" height="400px" width="100%"></iframe>
 
 ## Descida no número de propriedades disponíveis na plataforma Airbnb entre janeiro de 2020 e dezembro de 2020
 
