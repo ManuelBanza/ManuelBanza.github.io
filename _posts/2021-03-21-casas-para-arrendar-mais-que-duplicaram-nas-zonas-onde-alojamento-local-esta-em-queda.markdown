@@ -17,5 +17,9 @@ Entre as 24 freguesias da cidade, oito registaram subidas iguais ou superiores a
 
 ![Percentagem de Propriedades que se Mantêm no Airbnb]({{site.baseurl}}/assets/img/airbnb_europa.png)
 
+## Descida no número de propriedades disponíveis na plataforma Airbnb entre janeiro de 2020 e dezembro de 2020
+
+<iframe src="/assets/img/Heatmap_Airbnb_Dif_Jan_Vs_Dez.html" height="800px" width="100%"></iframe>
+
 # Para ver a análise gráfica e texto completo escrito pelo Federico Raposo clique [AQUI](https://amensagem.pt/2021/03/12/lisboa-casas-arrendar-alojamento-local-queda-habitacao/)
 
