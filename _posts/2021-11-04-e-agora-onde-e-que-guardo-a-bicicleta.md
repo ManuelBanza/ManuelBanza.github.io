@@ -9,6 +9,9 @@ tags: [mobilidade, bicicleta, python, estacionamento, mapas] # add tag
 É pequena e ágil, a bicicleta. Leva “porta-a-porta” quem a conduz. A cada ano que passa, o número de lisboetas que opta por este meio para se deslocar na cidade cresce. Mas, e quando chega a altura de a guardar? No espaço que um automóvel ocupa cabem dez bicicletas, mas o estacionamento destes veículos pode ser um desafio.
 
 ![Locais para Estacionar Bicicletas]({{site.baseurl}}/assets/img/bici_park_amensagem.png)
+
+<iframe src="/assets/img/Parques_Bicicleta.html" height="800px" width="100%"></iframe>
+
 Para ver mapa interactivo clique [AQUI](https://manuelbanza.github.io/mapaarroios.github.io/Parques_Bicicleta.html)
 
 # Para ver a análise gráfica e texto completo escrito pelo Federico Raposo clique [AQUI](https://amensagem.pt/2021/03/12/lisboa-casas-arrendar-alojamento-local-queda-habitacao/)
