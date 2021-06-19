@@ -15,7 +15,9 @@ Entre as 24 freguesias da cidade, oito registaram subidas iguais ou superiores a
 - Em São Vicente, a subida era de 200%, com mais 211 apartamentos listados.
 - Em Arroios registaram-se mais 301 anúncios, uma subida de 115%.
 
-![Percentagem de Propriedades que se Mantêm no Airbnb]({{site.baseurl}}/assets/img/airbnb_europa.png)
+
+## Percentagem de Propriedades que se Mantêm no Airbnb
+<iframe src="/assets/img/Propriedades Europa.htm" height="400px" width="80%"></iframe>
 
 ## Descida no número de propriedades disponíveis na plataforma Airbnb entre janeiro de 2020 e dezembro de 2020
 
