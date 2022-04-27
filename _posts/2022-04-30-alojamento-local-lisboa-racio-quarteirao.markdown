@@ -86,10 +86,10 @@ Não devem ser excluídos ainda, outros futuros projectos de emprendimentos tur�
 ## Dados
 Para a elaboração desta análise foram usados os seguintes dados:
 
-###### Dados Alojamento Local e Empreendimentos Turísticos
+##### Dados Alojamento Local e Empreendimentos Turísticos
 Os dados com a informação geográfica de cada licença foram obtidos através da plataforma de dados abertos desenvolvida pelo Turismo de Portugal, [TravelBI](https://travelbi.turismodeportugal.pt/)
 
-###### CENSOS 2021
+##### CENSOS 2021
 Os dados ao nível de cada BGRI, foram obtidos através do site do [INE](http://mapas.ine.pt/download/index2021.phtml), que disponibilizou recentemente esta informação como dados provisórios. Assim que forem disponibilizados os dados definitivos, os mapas e rácios serão atualizados.
 
 Toda a transformação, tratamento de dados, e criação de mapas foi feita e programada exclusivamente em python.
