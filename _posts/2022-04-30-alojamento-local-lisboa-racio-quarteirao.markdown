@@ -49,7 +49,7 @@ No entanto é importante fazer uma distinção entre o impacto de um hotel e de 
 
 
 #### Alojamento Local
-No gráfico abaixo podemos visualizar as tais BGRI (quarteirões) em que o rácio de licenças de alojamento local sobre o número de alojamento habitacionais dos CENSOS 2021 é superior a 2.5%. A escala começa no amarelo quase branco nos casos em que o rácio é 2.5%, e à medida que o rácio aumenta o tom passa a ser mais vermelho. Nos casos em que a cor mantém-se igual ao mapa, são as zonas onde o rácio é inferior a 2.5% ou náo existem habitações nos CENSOS 2021.
+No gráfico abaixo podemos visualizar as tais BGRI (quarteirões) em que o rácio de licenças de alojamento local sobre o número de alojamentos habitacionais dos CENSOS 2021 é superior a 2.5%. A escala começa no amarelo quase branco nos casos em que o rácio é 2.5%, e à medida que o rácio aumenta o tom passa a ser mais vermelho. Nos casos em que a cor mantém-se igual ao mapa, são as zonas onde o rácio é inferior a 2.5% ou náo existem habitações nos CENSOS 2021.
 Neste mapa não foram contabilizados os empreendimentos turísticos mas apenas alojamentos locais.
 
 <iframe src="https://manuelbanza.github.io/mapaarroios.github.io/02_BGRI2021_Licencas_AL_READ_ONLY.html" height="700px" width="100%"></iframe>
@@ -58,6 +58,8 @@ Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](h
 
 Exemplo de exploração do mapa:
 ![Exemplo de exploração do mapa]({{site.baseurl}}/assets/img/gif_01.gif)
+Ao clicar ou passar o rato numa área conseguimos obter informação não só do rácio de licenças AL sobre nº de alojamentos, mas também os outros rácios referidos acima.
+É também possivel obter informação da licença AL e data de emissão da mesma.
 
 Conseguimos perceber que apesar de freguesias como Campolide e Beato não terem sido abrangidas pela suspensão de licenças, têm zonas onde o rácio é superior a 2.5%. Se pegarmos no exemplo do Beato é fácil de perceber que a maioria dos alojamentos locais estão numa parte da cidade que tem vindo a ser mais frequentada nos últimos anos, tendo por isso já uma pressão turística consideravél.
 Por outro lado, vemos que existem freguesias como a Penha de França e Areeiro, que entraram na lista de suspensão, mas que têm várias zonas em que não há pressáo turística, pois esta está concentrada em zonas específicas da freguesia
