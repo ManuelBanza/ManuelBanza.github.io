@@ -44,9 +44,6 @@ Atualmente no concelho de Lisboa existem 20187 licenças atribuídas para alojam
 ![Número de Alojamentos]({{site.baseurl}}/assets/img/numero_alojamentos.png)
 Dados referentes a Abril de 2022
 
-
-<img src="ttps://manuelbanza.github.io/mapaarroios.github.io/numero_alojamentos.png" width="500" height="300" />
-
 Ou seja, apesar de serem bem diferentes entre si, vemos que a diferença em unidades de alojamento já não é muito diferente.
 O sector do turismo tem sido nos últimos anos um dos sectores que mais emprega trabalhadores não só em Lisboa mas em Portugal. Este boom turístico após a crise, foi também um dos sectores que permitiu o crescimento e retoma económica.
 No entanto é importante fazer uma distinção entre o impacto de um hotel e de um alojamento local, sendo o mais óbvio, o número de empregos que são gerados em cada um.
