@@ -79,7 +79,7 @@ Verificamos assim que o rácio passa a ser bastante mais elevado, como seria exp
 
 ## Próximos passos
 Com os dados aqui apresentados, podemos analisar em maior detalhe cada zona da cidade. Estes resultados podem ajudar na definição de novas regras que podem entrar na elaboração das alterações ao Regulamento Municipal desta atividade.
-Podemos iniciar o debate sobre outros valores para o rácio, outras métricas, ou outras variáveis a adiconar ao cálculo do rácio aqui aplicado.
+Podemos iniciar o debate sobre outros valores para o rácio, outras métricas, ou outras variáveis a adicionar ao cálculo do rácio aqui aplicado.
 Não devem ser excluídos ainda, outros futuros projectos de emprendimentos turísticos, como hotéis, já em construção, aprovados ou em fase de aprovação por parte do Turismo de Portugal e Câmara Municipal de Lisboa.
 
 
