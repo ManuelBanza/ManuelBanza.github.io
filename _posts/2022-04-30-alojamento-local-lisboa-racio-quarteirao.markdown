@@ -60,6 +60,7 @@ Neste mapa não foram contabilizados os empreendimentos turísticos mas apenas a
 
 Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](https://manuelbanza.github.io/mapaarroios.github.io/02_BGRI2021_Licencas_AL_READ_ONLY.html)
 
+Exemplo de exploração do mapa:
 ![Exemplo de exploração do mapa]({{site.baseurl}}/assets/img/gif_01.gif)
 
 Conseguimos perceber que apesar de freguesias como Campolide e Beato não terem sido abrangidas pela suspensão de licenças, têm zonas onde o rácio é superior a 2.5%. Se pegarmos no exemplo do Beato é fácil de perceber que a maioria dos alojamentos locais estão numa parte da cidade que tem vindo a ser mais frequentada nos últimos anos, tendo por isso já uma pressão turística consideravél.
