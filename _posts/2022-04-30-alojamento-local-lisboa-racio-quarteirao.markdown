@@ -1,7 +1,7 @@
 ---
 layout: post
 title: E se as regras do alojamento local fossem ao nível do quarteirão? | Manuel Banza |
-date: 2022-04-30 00:00:00 +0300
+date: 2022-04-26 00:00:00 +0300
 description: Em Março de 2022 Lisboa decidiu suspender novas licenças de alojamento local por 6 meses. Terminado esse periodo, como podemos criar novas regras com um um maior detalhe e justiça que apenas ao nível da freguesia? # Add post description (optional)
 img: heatmap_rnal.png # Add image post (optional)
 tags: [alojamento local, lisboa, turismo, hotelaria, licenças, datascience, spatial data science] # add tag
