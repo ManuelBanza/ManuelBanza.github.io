@@ -13,7 +13,7 @@ Em Março de 2022 os partidos de esquerda juntaram-se para aprovar a [suspensão
 Nas últimas semanas ficámos também a saber, que esta medida fez aumentar [em 382% face a igual período de 2021 e de 25% em comparação com 2019](https://www.dinheirovivo.pt/economia/alojamento-local-em-lisboa-dispa-382-a-boleia-da-suspensao-de-novos-registos-14777622.html).
 Recentemente surgiu também um estudo intitulado ["O Mercado Imobiliário em Portugal”, coordenado pelo economista Paulo Rodrigues, com financiamento pela Fundação Francisco Manuel dos Santos (FFMS)](https://www.publico.pt/2022/04/04/economia/noticia/precos-casas-cairam-9-onde-proibidos-novos-alojamentos-locais-2001068), que indica que a limitação e suspenção de novas licenças feitas no passado em certas zonas com alta pressão turística, teve o efeito de reduzir o preço das casas em 9%. Provando que a suspensão pode ser uma boa ferramenta para ajudar a combater a crise habitacional que existe em Lisboa.
 
-No entanto, limitar uma freguesia por inteiro poderá penalizar certas zonas em que não existe pressão ou procura de alojamento local, bem como o seu contrário, freguesias que não atingem o rácio 2.5% mas que um determinada zona já tem uma pressão turística elevada e superior a 2.5%
+No entanto, limitar uma freguesia por inteiro poderá penalizar certas zonas em que não existe pressão ou procura de alojamento local, bem como o seu contrário, freguesias que não atingem o rácio 2.5% mas que um determinada zona já tem uma pressão turística elevada e superior a 2.5%.
 
 É precisamente por estes últimos desenvolvimentos e limitações do modelo atual, que é necessário criar uma ferramenta com mais detalhe e que ajude na tomada de decisões.
 
@@ -34,7 +34,7 @@ Para além desta métrica foram criados outros rácios como se pode verificar na
 
 Sendo que uma das coisas que estamos a avaliar é a pressão turística e não apenas o alojamento local, é importante arranjar formas que contabilizem o sector hoteleiro, nomeadamente os empreendimentos turísticos comos os hotéis, neste rácio.
 Embora as realidades entre os hotéis e o alojamento local sejam bem distintas, ambos contribuem para a oferta turística da cidade.
-Dessa forma decidi criar outra análise que contablize o número de alojamentos referentes aos hotéis em Lisboa. Sendo que o número de alojamentos corresponderá ao número de quartos que cada hotel tem. Esta é a forma mais correcta para podermos agregar licenças de alojamento local com hotéis, visto que o número de camas irá sempre depender da dimensão de cada um.
+Dessa forma decidi criar outra análise que contabilize o número de alojamentos referentes aos hotéis em Lisboa. Sendo que o número de alojamentos corresponderá ao número de quartos que cada hotel tem. Esta é a forma mais correcta para podermos agregar licenças de alojamento local com hotéis, visto que o número de camas irá sempre depender da dimensão de cada um.
 
 ## Resultados
 #### Hotel vs AL
@@ -63,11 +63,11 @@ Ao clicar ou passar o rato numa área conseguimos obter informação não só do
 
 Conseguimos perceber que apesar de freguesias como Campolide e Beato não terem sido abrangidas pela suspensão de licenças, têm zonas onde o rácio é superior a 2.5%. Se pegarmos no exemplo do Beato é fácil de perceber que a maioria dos alojamentos locais estão numa parte da cidade que tem vindo a ser mais frequentada nos últimos anos, tendo por isso já uma pressão turística consideravél.
 Por outro lado, vemos que existem freguesias como a Penha de França e Areeiro, que entraram na lista de suspensão, mas que têm várias zonas em que não há pressáo turística, pois esta está concentrada em zonas específicas da freguesia.
-Este mapa deve ser sempre analisado em conjuntos com os outros rácios e valores, visto que em certos casos, temos zonas que estãoa  vermelho mas que têm muito poucos alojamentos de habitação, atingindo fácilmente um rácio superior a 2.5%, como é o caso de Carnide na zona nordeste de Lisboa.
+Este mapa deve ser sempre analisado em conjunto com os outros rácios e valores, visto que em certos casos, temos zonas que estãoa  vermelho mas que têm muito poucos alojamentos de habitação, atingindo fácilmente um rácio superior a 2.5%, como é o caso de Carnide na zona nordeste de Lisboa.
 
 #### Alojamento Local + Hotelaria
 E se considerarmos e adicionarmos os hotéis neste rácio? Teremos valores diferentes?
-Na imagem abaixo verificamos que sim:
+Na mapa abaixo verificamos que sim:
 
 <iframe src="https://manuelbanza.github.io/mapaarroios.github.io/04_BGRI2021_Licencas_AL_Empreendimentos_Turisticos_read_only.html" height="700px" width="100%"></iframe>
 
@@ -86,6 +86,8 @@ Este tipo de análises devem também ser usadas quando há tomadas de decisões 
 Abaixo podemos ver o mapa com o Rácio de Licenças AL + Empreendimentos Turísticos sobre o N° de Alojamentos de Habitação, já com a média móvel espacial aplicada e apenas as BGRI com rácios superiores ou iguais a 2.5%:
 
 <iframe src="https://manuelbanza.github.io/mapaarroios.github.io/05_Spatial_Lag_BGRI2021_Licencas_AL_Empreendimentos_Turisticos_read_only.html" height="700px" width="100%"></iframe>
+
+Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](https://manuelbanza.github.io/mapaarroios.github.io/05_Spatial_Lag_BGRI2021_Licencas_AL_Empreendimentos_Turisticos_read_only.html)
 
 Neste caso vemos que existem diferenças entre BGRI vizinhas, passando a ter valores mais próximos entre si, também por serem precisamente vizinhas e partilharem o impacto. Como é perceptível na zona histórico de Lisboa.
 No oposto, vemos casos como na zona perto do aeroporto, que deixam de ter um rácio superior a 2.5%, visto não haver tanta pressão túristica nas zonas vizinhas.
