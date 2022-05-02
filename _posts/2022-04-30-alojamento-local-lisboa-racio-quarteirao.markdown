@@ -13,7 +13,7 @@ Nas últimas semanas ficámos também a saber que esta medida fez aumentar o ped
 
 Recentemente surgiu também um estudo intitulado ["O Mercado Imobiliário em Portugal”, coordenado pelo economista Paulo Rodrigues, com financiamento pela Fundação Francisco Manuel dos Santos (FFMS)](https://www.publico.pt/2022/04/04/economia/noticia/precos-casas-cairam-9-onde-proibidos-novos-alojamentos-locais-2001068), que indica que a limitação e suspensão de novas licenças feitas no passado em certas zonas com alta pressão turística teve o efeito de reduzir o preço das casas em 9%, provando que a suspensão pode ser uma boa ferramenta para ajudar a combater a crise habitacional que existe em Lisboa.
 
-No entanto, limitar uma freguesia por inteiro poderá penalizar certas zonas em que não existe pressão ou procura de alojamento local, bem como o seu contrário. Há freguesias que não atingem o rácio 2.5% mas que um determinada zona já tem uma pressão turística elevada e superior a 2.5%.
+No entanto, limitar uma freguesia por inteiro poderá penalizar certas zonas em que não existe pressão ou procura de alojamento local, bem como o seu contrário. Há freguesias que não atingem o rácio 2.5% mas que uma determinada zona já tem uma pressão turística elevada e superior a 2.5%.
 É precisamente por estes últimos desenvolvimentos e limitações do modelo atual, que é necessário criar uma ferramenta com mais detalhe e que ajude na tomada de decisões.
 
 ## Como?
