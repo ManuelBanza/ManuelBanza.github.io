@@ -7,14 +7,13 @@ img: heatmap_rnal.png # Add image post (optional)
 tags: [alojamento local, lisboa, turismo, hotelaria, licenças, datascience, spatial data science] # add tag
 ---
 
-Há vários anos que o debate sobre o impacto do alojamento local no sector da habitação em Lisboa tem vindo a ser tema quente, seja em altura de eleições, ou não.
-Existem opiniões diferentes sobre a emissão de novas licenças, que dividem os partidos à esquerda e à direita.
-Em Março de 2022 os partidos de esquerda juntaram-se para aprovar a [suspensão de novas licenças por um período de 6 meses](https://eco.sapo.pt/2022/03/22/lisboa-aprova-suspensao-de-novos-registos-de-alojamento-local-em-14-freguesias/), em freguesias em que o rácio entre licenças de alojamento local e número de habitações fosse superior a 2.5%, até à entrada em vigor da alteração ao Regulamento Municipal desta atividade.
-Nas últimas semanas ficámos também a saber, que esta medida fez aumentar o pedido de novas licenças [em 382% face a igual período de 2021 e de 25% em comparação com 2019](https://www.dinheirovivo.pt/economia/alojamento-local-em-lisboa-dispa-382-a-boleia-da-suspensao-de-novos-registos-14777622.html).
-Recentemente surgiu também um estudo intitulado ["O Mercado Imobiliário em Portugal”, coordenado pelo economista Paulo Rodrigues, com financiamento pela Fundação Francisco Manuel dos Santos (FFMS)](https://www.publico.pt/2022/04/04/economia/noticia/precos-casas-cairam-9-onde-proibidos-novos-alojamentos-locais-2001068), que indica que a limitação e suspenção de novas licenças feitas no passado em certas zonas com alta pressão turística, teve o efeito de reduzir o preço das casas em 9%. Provando que a suspensão pode ser uma boa ferramenta para ajudar a combater a crise habitacional que existe em Lisboa.
+Há vários anos que o debate sobre o impacto do alojamento local no sector da habitação em Lisboa tem vindo a ser tema quente, seja em altura de eleições ou não. Existem opiniões diferentes sobre a emissão de novas licenças, que dividem os partidos à esquerda e à direita. 
+Em Março de 2022 os partidos de esquerda juntaram-se para aprovar a [suspensão de novas licenças por um período de 6 meses](https://eco.sapo.pt/2022/03/22/lisboa-aprova-suspensao-de-novos-registos-de-alojamento-local-em-14-freguesias/), em freguesias em que o rácio entre licenças de alojamento local e número de habitações fosse superior a 2.5%, até à entrada em vigor da alteração ao Regulamento Municipal. 
+Nas últimas semanas ficámos também a saber que esta medida fez aumentar o pedido de novas licenças em [382% face a igual período de 2021 e de 25% em comparação com 2019](https://www.dinheirovivo.pt/economia/alojamento-local-em-lisboa-dispa-382-a-boleia-da-suspensao-de-novos-registos-14777622.html). 
 
-No entanto, limitar uma freguesia por inteiro poderá penalizar certas zonas em que não existe pressão ou procura de alojamento local, bem como o seu contrário, freguesias que não atingem o rácio 2.5% mas que um determinada zona já tem uma pressão turística elevada e superior a 2.5%.
+Recentemente surgiu também um estudo intitulado ["O Mercado Imobiliário em Portugal”, coordenado pelo economista Paulo Rodrigues, com financiamento pela Fundação Francisco Manuel dos Santos (FFMS)](https://www.publico.pt/2022/04/04/economia/noticia/precos-casas-cairam-9-onde-proibidos-novos-alojamentos-locais-2001068), que indica que a limitação e suspensão de novas licenças feitas no passado em certas zonas com alta pressão turística teve o efeito de reduzir o preço das casas em 9%, provando que a suspensão pode ser uma boa ferramenta para ajudar a combater a crise habitacional que existe em Lisboa.
 
+No entanto, limitar uma freguesia por inteiro poderá penalizar certas zonas em que não existe pressão ou procura de alojamento local, bem como o seu contrário. Há freguesias que não atingem o rácio 2.5% mas que um determinada zona já tem uma pressão turística elevada e superior a 2.5%.
 É precisamente por estes últimos desenvolvimentos e limitações do modelo atual, que é necessário criar uma ferramenta com mais detalhe e que ajude na tomada de decisões.
 
 ## Como?
@@ -25,10 +24,11 @@ Esta base geográfica permite analisar a informação relativa a alojamentos des
 
 #### Métricas de Análise
 Que métricas podemos então usar para avaliar o impacto do Alojamento Local em cada zona ou bairro específico de Lisboa?
-Uma possibilidade, é a relação entre número de alojamentos destinados para habitação, identificados pelos CENSOS 2021, e o número de licenças atribuídas para alojamento local nessa mesma BGRI (semelhante a um quarteirão). Ou seja para x alojamentos de habitação, quantos existem na mesma área para alojamento local, já com licença atríbuida.
-De forma a simplificar a análise irei filtrar apenas as BGRI que tiverem um rácio (definido no parágrafo acima) superior a 2.5%, já que foi este o valor que foi usado para a suspensão de licenças nos próximos 6 meses. 
-O objetivo deste artigo é apenas iniciar o debate sobre o tema com os dados atualmente disponíveis e em formato de dados abertos. O desejado é que a definição de qual o valor a ser usado, seja os 2.5% ou outro valor, seja o resultado do debate entre toda a população.
-Para além desta métrica foram criados outros rácios como se pode verificar na imagem abaixo:
+Uma possibilidade é a relação entre número de alojamentos destinados a habitação, identificados pelos CENSOS 2021, e o número de licenças atribuídas para alojamento local nessa mesma BGRI (semelhante a um quarteirão).
+Ou seja para x alojamentos de habitação, quantos existem na mesma área para alojamento local, já com licença atríbuida.
+
+De forma a simplificar a análise irei filtrar apenas as BGRI que tiverem um rácio (definido no parágrafo acima) superior a 2.5%, já que foi este o valor que foi usado para a suspensão de licenças nos próximos 6 meses.
+O objetivo deste artigo é apenas iniciar o debate sobre o tema com os dados atualmente disponíveis e em formato de dados abertos. O desejado é que a definição de qual o valor a ser usado, seja os 2.5% ou outro valor, seja o resultado do debate entre toda a população. Para além desta métrica foram criados outros rácios como se pode verificar na imagem abaixo:
 
 ![Rácios]({{site.baseurl}}/assets/img/racios_al.png)
 
@@ -43,14 +43,14 @@ Atualmente no concelho de Lisboa existem 20.187 licenças atribuídas para aloja
 ![Número de Alojamentos]({{site.baseurl}}/assets/img/numero_alojamentos.png)
 Dados referentes a Abril de 2022
 
-Ou seja, apesar de serem bem diferentes entre si, vemos que a diferença em unidades de alojamento já não é muito diferente.
-O sector do turismo tem sido nos últimos anos um dos sectores que mais emprega trabalhadores, não só em Lisboa mas em Portugal. Este boom turístico foi também, em parte, o que permitiu o crescimento e retoma económica após a crise da década passada.
-No entanto é importante fazer uma distinção entre o impacto de um hotel e de um alojamento local. Por um lado os hotéis acabam por empregar mais trabalhadores, contudo não podemos esquecer o impacto que muitos alojamentos locais tiveram na reabilitação de edifícios nos bairros mais históricos, e náo só. Além do potencial para dinamizar o sector de restauração e comércio.
+Ou seja, apesar de serem bem diferentes entre si, vemos que a diferença em unidades de alojamento já não é muito diferente. O sector do turismo tem sido nos últimos anos um dos sectores que mais emprega trabalhadores, não só em Lisboa mas em todo o país. Este boom turístico foi também, em parte, o que permitiu o crescimento e retoma económica após a crise da década passada.
+Há prós e contras em ambas as situações: por um lado os hotéis acabam por empregar mais trabalhadores, contudo não podemos esquecer o impacto que muitos alojamentos locais tiveram na reabilitação de edifícios nos bairros mais históricos, e não só, além do potencial para dinamizar o sector de restauração e comércio na zona.
 
 
 #### Alojamento Local
-No gráfico abaixo podemos visualizar as tais BGRI (quarteirões) em que o rácio de licenças de alojamento local sobre o número de alojamentos habitacionais dos CENSOS 2021 é superior a 2.5%. A escala começa no amarelo quase branco nos casos em que o rácio é 2.5%, e à medida que o rácio aumenta o tom passa a ser mais vermelho. Nos casos em que a cor mantém-se igual ao mapa, são as zonas onde o rácio é inferior a 2.5% ou náo existem habitações nos CENSOS 2021.
-Neste mapa não foram contabilizados os empreendimentos turísticos mas apenas alojamentos locais.
+No gráfico abaixo podemos visualizar as tais BGRI (quarteirões) em que o rácio de licenças de alojamento local sobre o número de alojamentos habitacionais dos CENSOS 2021 é superior a 2.5%. A escala começa no amarelo quase branco nos casos em que o rácio é 2.5%, e à medida que o rácio aumenta o tom passa a ser mais vermelho.
+Quando a cor se mantém igual ao mapa são as zonas onde o rácio é inferior a 2.5% ou não existem habitações nos CENSOS 2021. Neste mapa não foram contabilizados os empreendimentos turísticos mas apenas alojamentos locais.
+
 
 <iframe src="https://manuelbanza.github.io/mapaarroios.github.io/02_BGRI2021_Licencas_AL_READ_ONLY.html" height="700px" width="100%"></iframe>
 
@@ -61,42 +61,43 @@ Exemplo de exploração do mapa:
 Ao clicar ou passar o rato numa área conseguimos obter informação não só do rácio de licenças AL sobre nº de alojamentos, mas também os outros rácios referidos acima.
 É também possivel obter informação da licença AL e data de emissão da mesma.
 
-Conseguimos perceber que apesar de freguesias como Campolide e Beato não terem sido abrangidas pela suspensão de licenças, têm zonas onde o rácio é superior a 2.5%. Se pegarmos no exemplo do Beato é fácil de perceber que a maioria dos alojamentos locais estão numa parte da cidade que tem vindo a ser mais frequentada nos últimos anos, tendo por isso já uma pressão turística consideravél.
-Por outro lado, vemos que existem freguesias como a Penha de França e Areeiro, que entraram na lista de suspensão, mas que têm várias zonas em que não há pressáo turística, pois esta está concentrada em zonas específicas da freguesia.
-Este mapa deve ser sempre analisado em conjunto com os outros rácios e valores, visto que em certos casos, temos zonas que estãoa  vermelho mas que têm muito poucos alojamentos de habitação, atingindo fácilmente um rácio superior a 2.5%, como é o caso de Carnide na zona nordeste de Lisboa.
+Conseguimos perceber que, apesar de freguesias como Campolide e Beato não terem sido abrangidas pela suspensão de licenças, têm zonas onde o rácio é superior a 2.5%.
+Se pegarmos no exemplo do Beato é fácil de perceber que a maioria dos alojamentos locais estão numa parte da cidade que tem vindo a ser mais frequentada nos últimos anos, tendo por isso já uma pressão turística considerável. Por outro lado, vemos que existem freguesias como a Penha de França e Areeiro, que entraram na lista de suspensão mas que têm várias zonas em que não há pressão turística, pois esta está concentrada em zonas específicas da freguesia. 
+
+Este mapa deve ser sempre analisado em conjunto com os outros rácios e valores, visto que em certos casos, temos zonas que estão a vermelho mas que têm muito poucos alojamentos de habitação, atingindo facilmente um rácio superior a 2.5%: é o caso de Carnide, na zona nordeste de Lisboa.
+
+ 
 
 #### Alojamento Local + Hotelaria
-E se considerarmos e adicionarmos os hotéis neste rácio? Teremos valores diferentes?
-Na mapa abaixo verificamos que sim:
+E se considerarmos e adicionarmos os hotéis neste rácio? Teremos valores diferentes? Na mapa abaixo verificamos que sim:
 
 <iframe src="https://manuelbanza.github.io/mapaarroios.github.io/04_BGRI2021_Licencas_AL_Empreendimentos_Turisticos_read_only.html" height="700px" width="100%"></iframe>
 
 Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](https://manuelbanza.github.io/mapaarroios.github.io/04_BGRI2021_Licencas_AL_Empreendimentos_Turisticos_read_only.html)
 
-Verificamos assim que o rácio passa a ser bastante mais elevado, como seria expectável, e que zonas com as Avenidas Novas e Estrela passam a ter valores mais expressivos.
+Verificamos assim que o rácio passa a ser bastante mais elevado, como seria expectável. Zonas com as Avenidas Novas e Estrela passam a ter valores mais expressivos.
 
-Quando analisamos as BGRI com rácios mais elevados, verificamos o top 10 ou mesmo 15, sáo localizadas em apenas 3 Freguesias: Santa Maria Maior, Misericórdia e Santo António. Foram precisamente estas freguesias que mais perderam residentes face a 2011, segundos os dados dos CENSOS 2021 agregados à Freguesia e [possível de visualizar neste artigo.](https://amensagem.pt/2021/08/07/censos-centro-historico-lisboa-perde-oito-mil-habitantes-menos-lares-mais-alojamento-local-turismo/)
-Levanta-se assim a questão dos preços das casas nestas zonas terem vindo a sofrer um aumento muito elevado na última década, que fez com que muitos locais deixassem de puder pagar os valores praticados.
+Quando analisamos os quarteirões com rácios mais elevados, verificamos que o top 10 ou mesmo 15 estão em apenas 3 Freguesias: Santa Maria Maior, Misericórdia e Santo António. Foram precisamente estas freguesias que mais perderam residentes face a 2011, segundos os dados dos CENSOS 2021 agregados à freguesia e que se podem [visualizar neste artigo](https://amensagem.pt/2021/08/07/censos-centro-historico-lisboa-perde-oito-mil-habitantes-menos-lares-mais-alojamento-local-turismo/).
+Levanta-se assim a questão dos preços das casas nestas zonas terem vindo a sofrer um aumento muito elevado na última década, que fez com que muitos locais deixassem de poder pagar os valores praticados.
+
 
 #### Média Móvel Espacial
-Outra forma de analisarmos os resultados é aplicando a média móvel espacial, também conhecida por spatial lag, usada em Ciência de Dados Geoespaciais. A Média Móvel Espacial pode ser entendida como uma média ponderada de uma variável pelas localizações vizinhas. Ou seja, considera o impacto que as zonas vizinhas têm numa determinada zona, e como influenciam os valores de cada uma delas.
-Neste caso, uma BGRI não pode ser analisada isoladamente(o rácio que calculámos), mas sim com as outras BGRI vizinhas com que faz fronteira. 
-Dessa forma os rácios passam a ter valores diferentes, inclusive em zonas que não tinham rácios acima de 2.5% ou mesmo qualquer tipo de licença AL, Hotel ou unidade alojamento.
-Este tipo de análises devem também ser usadas quando há tomadas de decisões que envolvam informações geográficas.
-Abaixo podemos ver o mapa com o Rácio de Licenças AL + Empreendimentos Turísticos sobre o N° de Alojamentos de Habitação, já com a média móvel espacial aplicada e apenas as BGRI com rácios superiores ou iguais a 2.5%:
+Outra forma de analisarmos os resultados é aplicando a média móvel espacial, também conhecida por spatial lag, usada em Ciência de Dados Geoespaciais. A Média Móvel Espacial pode ser entendida como uma média ponderada de uma variável pelas localizações vizinhas.
+Ou seja, considera o impacto que as zonas vizinhas têm numa determinada zona, e como influenciam os valores de cada uma delas. Neste caso, uma BGRI não pode ser analisada isoladamente (com o rácio que calculámos), mas sim com as outras BGRI vizinhas, com que faz fronteira. Dessa forma os rácios passam a ter valores diferentes, inclusive em zonas que não tinham rácios acima de 2.5% ou mesmo qualquer tipo de licença AL, Hotel ou unidade alojamento.
+
+Este tipo de análises deve também ser usado quando há tomadas de decisões que envolvam informações geográficas. Abaixo podemos ver o mapa com o Rácio de Licenças AL + Empreendimentos Turísticos sobre o N° de Alojamentos de Habitação, já com a média móvel espacial aplicada e apenas as BGRI com rácios superiores ou iguais a 2.5%:
 
 <iframe src="https://manuelbanza.github.io/mapaarroios.github.io/05_Spatial_Lag_BGRI2021_Licencas_AL_Empreendimentos_Turisticos_read_only.html" height="700px" width="100%"></iframe>
 
 Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](https://manuelbanza.github.io/mapaarroios.github.io/05_Spatial_Lag_BGRI2021_Licencas_AL_Empreendimentos_Turisticos_read_only.html)
 
-Neste caso vemos que existem diferenças entre BGRI vizinhas, passando a ter valores mais próximos entre si, também por serem precisamente vizinhas e partilharem o impacto. Como é perceptível na zona histórico de Lisboa.
-No oposto, vemos casos como na zona perto do aeroporto, que deixam de ter um rácio superior a 2.5%, visto não haver tanta pressão túristica nas zonas vizinhas.
+Neste caso vemos que existem diferenças entre BGRI vizinhas, passando a ter valores mais próximos entre si, também por serem, precisamente, vizinhas e partilharem o impacto: é o que acontece na zona histórica de Lisboa. No oposto, vemos casos como na zona perto do aeroporto, que deixam de ter um rácio superior a 2.5%, visto não haver tanta pressão turística nas zonas vizinhas.
 
 ## Próximos passos
-Com os dados aqui apresentados, podemos analisar em maior detalhe cada zona da cidade. Estes resultados podem ajudar na definição de novas regras que podem entrar na elaboração das alterações ao Regulamento Municipal desta atividade. Podemos iniciar o debate sobre outros valores para o rácio, outras métricas, ou outras variáveis a adicionar ao cálculo do rácio aqui aplicado. Sem nunca esquecer o que os dados já nos dizem e o que os últimos anos nos disserem. Cabe agora tomar medidas baseadas em factos e que melhorem a qualidade de vida de todos os que vivem e trabalham em Lisboa.
-Em breve iremos ainda ter mais dados dos CENSOS 2021 ao nível de BGRI, que permitiram desagregar ainda mais por tipo de habitação e alojamento.
-Não devem ser excluídos ainda, outros futuros projectos de emprendimentos turísticos, como hotéis, já em construção, aprovados ou em fase de aprovação por parte do Turismo de Portugal e Câmara Municipal de Lisboa.
+Com os dados aqui apresentados, podemos analisar em maior detalhe cada zona da cidade – ao nível dos quarteirões. Estes resultados podem ajudar na definição de novas regras que podem entrar na elaboração das alterações ao Regulamento Municipal desta atividade.
+Podemos iniciar o debate sobre outros valores para o rácio, outras métricas, ou outras variáveis a adicionar ao cálculo do rácio aqui aplicado. Sem nunca esquecer o que os dados já nos dizem e o que os últimos anos nos disseram. Cabe agora tomar medidas baseadas em factos e que melhorem a qualidade de vida de todos os que vivem e trabalham em Lisboa.
 
+Em breve iremos ainda ter mais dados dos CENSOS 2021 ao nível de BGRI, que permitiram desagregar ainda mais por tipo de habitação e alojamento. Não devem ser excluídos ainda, outros futuros projetos de empreendimentos turísticos, como hotéis já em construção, aprovados ou em fase de aprovação por parte do Turismo de Portugal e Câmara Municipal de Lisboa.
 
 ## Dados
 Para a elaboração desta análise foram usados os seguintes dados:
