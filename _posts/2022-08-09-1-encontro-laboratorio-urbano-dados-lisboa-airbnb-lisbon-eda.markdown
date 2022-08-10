@@ -13,7 +13,8 @@ No passado mês de Junho, a convite da Câmara MUnicpal de Lisboa, estive presen
 
 O video da apresentação pode ser consultado abaixo:
 
-[Apresentação](https://youtu.be/W34_V2KIZjE?t=2183).
+[![Video Apresentação](https://img.youtube.com/vi/W34_V2KIZjE/maxresdefault.jpg)](https://youtu.be/W34_V2KIZjE?t=2183)
 
 Para consultar a apresentação e mais informações cosultar o site do [Lx Data Lab](https://lisboaaberta.cm-lisboa.pt/index.php/pt/apps-e-analitica/lx-data-lab)
+
 
