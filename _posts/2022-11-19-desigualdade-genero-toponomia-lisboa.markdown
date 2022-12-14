@@ -44,4 +44,6 @@ No mapa abaixo conseguimos visualizar as todas as ruas de Lisboa por género:
 
 Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/01.Toponomia_Ruas_Genero_read_only.html)
 
+Ao clicar numa rua podemos fica a saber mais sobre a sua origem, data em que passou a ter esse nome ou até saber qual a designação anterior.
+
 
