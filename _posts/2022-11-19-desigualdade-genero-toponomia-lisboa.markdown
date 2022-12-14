@@ -9,7 +9,7 @@ tags: [desigualdes, gendergap, toponomia, python, lisboa, homem, mulher] # add t
 
 # Introdução
 
-As ruas são uma parte fundamental das nossas cidades e comunidades. Os nomes das ruas são por isso também, uma forma de homenagear e lembrar as pessoas que fizeram contribuições importantes para a nossa sociedade. Infelizmente, a maioria das ruas tem nomes de homens, refletindo a desigualdade de género que ainda existe em muitas áreas da nossa sociedade. É importante que existam mais ruas com nomes de mulheres para equilibrar essa desigualdade e reconhecer o importante papel desempenhado pelas mulheres na nossa história e nas nossas cidades.
+As ruas são uma parte fundamental das nossas cidades e comunidades. Os nomes das ruas são por isso também, uma forma de homenagear e lembrar as pessoas que fizeram contribuições importantes para a nossa sociedade. Infelizmente, as ruas são desproporcionadamente designadas com nomes de homens, refletindo a desigualdade de género que ainda existe em muitas áreas da nossa sociedade. Ações de reequilibrio, nomeadamente através de ruas com nomes de mulheres para reconhecer o importante papel desempenhado pelas mulheres na nossa história e nas nossas cidades.
 
 O aumento de ruas com nomes de mulheres pode ajudar a combater essa desigualdade e reconhecer o importante papel desempenhado pelas mulheres. Isso pode inspirar as mulheres a continuarem a lutar pelos seus direitos e a alcançarem sucesso nas suas carreiras e vidas pessoais. Além disso, pode ajudar a educar as pessoas sobre as mulheres que fizeram contribuições importantes para a nossa sociedade, e inspirar as futuras gerações.
 
@@ -44,9 +44,13 @@ Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](h
 
 Ao clicar numa rua podemos fica a saber mais sobre a sua origem, data em que passou a ter esse nome ou até saber qual a designação anterior.
 
-E qual a distribuição do género ao longo do tempo?
+**E qual a distribuição do género ao longo do tempo?**
 
-[INSERIR VISUALIZAÇÃO POR ANO]
+Pelos dados de toponomia disponíveis no portal de dados abertos, consiguimos ter a data edital da grande parte das ruas aqui analisadas, mas não a sua totalidade. Dessa forma para os que têm data conseguimos fazer uma análise para perceber a distribuição ao longo das últimas décadas:
+
+<iframe src="https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/ANO_vs_Genero.html" height="700px" width="100%"></iframe>
+
+Como podemos ver o cenário não tem vindo a melhorar significativamente, mesmo quando olhamos para os ultimos anos.
 
 ## Jardins e Parques
 
