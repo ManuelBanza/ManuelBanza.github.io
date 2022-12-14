@@ -17,14 +17,12 @@ O aumento de ruas com nomes de mulheres pode ajudar a combater essa desigualdade
 
 É precisamente por isso que decidi fazer uma análise que tente mostrar a desigualdade que existe na distribuição de ruas com nomes de mulheres quando comparado com ruas com nomes de homem.
 
-Como nem todas as ruas têm um nome referente a uma mulher ou homem, foram classificadas apenas as ruas onde isso era possível. Foram tabém excluídas ruas que tenham apenas um nome próprio, isto porque torna-se difícil identificar a origem dessa personalidade.
-
 # Metodologia e tratamento de dados
 
 Usando dados da toponomia disponíveis pela CML em dados abertos, foi possível adicionar informação sobre a origem ou biografia da pessoa que dá nome à rua, ano em que foi dado o nome atual, ou mesmo o nome pela qual era anteriormente conhecida.
 
-Neste projecto o objetivo é quantificar a diferença que existe entre ruas com nomes de homens e mulheres. Para isso usou-se a informação da toponomia de Lisboa e classificou-se por género.
-Para a cliassifcação de homem e mulher, apenas se considerou as que tem um nome possível de identificar. Ruas de homens ou mulheres com apenas um nome próprio (ex: Rua Maria) não foram contabilizadas.
+Como nem todas as ruas têm um nome referente a uma mulher ou homem, foram classificadas apenas as ruas onde isso era possível. Foram tabém excluídas ruas que tenham apenas um nome próprio, isto porque torna-se difícil identificar a origem dessa personalidade.
+Ruas de homens ou mulheres com apenas um nome próprio (ex: Rua Maria) não foram contabilizadas.
 Obteve-se assim 3 resultados possíveis para ruas:
 - Homem
 - Mulher
