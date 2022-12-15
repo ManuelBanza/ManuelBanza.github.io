@@ -49,6 +49,8 @@ No mapa abaixo conseguimos visualizar as todas as ruas de Lisboa por género:
 
 Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/05.Ruas_Genero_read_only.html)
 
+Se tivermos em conta apenas os que são possíveis de identificar o nome de homem ou mulher, vemos que **apenas 9% das ruas, avenidas, praças, etc, têm nomes de mulheres.**
+
 Ao clicar numa rua podemos fica a saber mais sobre a sua origem, data em que passou a ter esse nome ou até saber qual a designação anterior.
 
 ### E qual a distribuição do género ao longo do tempo?
@@ -65,12 +67,12 @@ Será que existem freguesias que têm um equilibrio maior entre ruas de homens e
 
 <iframe src="https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/Freguesias_Genero_Percent.html" height="425px" width="100%"></iframe>
 
-Como podemos verificar, as freguesias de São Vicente, Carnide e Campode Ourique, são as freguesias que mais nomes de mulheres têm em percentagem do total que foi possível classificar.
+Como podemos verificar, as freguesias de São Vicente, Carnide e Campo de Ourique, são as freguesias que mais nomes de mulheres têm em percentagem do total que foi possível classificar.
 
 
 ## Jardins e Parques
 
-Quando aplicamos o mesmo raciocínio para os jardins e parques de Lisboa vemos que o cenário é ligeiramente melhor. Se olharmos apenas para os que é possível identificar se o nome é de homem ou mulher, vemos que **17% dos jardins e parques têm nomes de mulheres.**
+Quando aplicamos o mesmo raciocínio para os jardins e parques de Lisboa vemos que o cenário é ligeiramente melhor. Se olharmos apenas para os que são possíveis identificar se o nome é de homem ou mulher, vemos que **17% dos jardins e parques têm nomes de mulheres.**
 
 ![Género nos Jardins e Parques]({{site.baseurl}}/assets/img/parques_genero.png)
 
