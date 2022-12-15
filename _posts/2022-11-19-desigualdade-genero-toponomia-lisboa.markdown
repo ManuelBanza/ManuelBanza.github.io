@@ -63,7 +63,10 @@ Como podemos ver o cenário não tem vindo a melhorar significativamente, mesmo 
 
 Será que existem freguesias que têm um equilibrio maior entre ruas de homens e mulheres? Vejamos o mapa abaixo:
 
-[INSERIR MAPA FREGEUSIAS]
+<iframe title="Percentagem de Ruas de Mulheres por Freguesia" aria-label="Map" id="datawrapper-chart-XGvum" src="https://datawrapper.dwcdn.net/XGvum/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="673" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
+
 
 ## Jardins e Parques
 
