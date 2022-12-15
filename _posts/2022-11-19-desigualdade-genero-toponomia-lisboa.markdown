@@ -9,19 +9,21 @@ tags: [desigualdes, gendergap, toponomia, python, lisboa, homem, mulher] # add t
 
 # Introdução
 
-As ruas são uma parte fundamental das nossas cidades e comunidades. Os nomes das ruas são por isso também, uma forma de homenagear e lembrar as pessoas que fizeram contribuições importantes para a nossa sociedade. Infelizmente, as ruas são desproporcionadamente designadas com nomes de homens, refletindo a desigualdade de género que ainda existe em muitas áreas da nossa sociedade. Ações de reequilibrio, nomeadamente através de ruas com nomes de mulheres para reconhecer o importante papel desempenhado pelas mulheres na nossa história e nas nossas cidades.
+As ruas são uma parte fundamental das nossas cidades e comunidades. Os nomes das ruas são por isso também, uma forma de homenagear e lembrar as pessoas que fizeram contribuições importantes para a nossa sociedade. Ou de as esquecer. Infelizmente, as ruas são desproporcionadamente designadas com nomes de homens, refletindo a desigualdade de género que ainda existe em muitas áreas da nossa sociedade.
 
-O aumento de ruas com nomes de mulheres pode ajudar a combater essa desigualdade e reconhecer o importante papel desempenhado pelas mulheres. Isso pode inspirar as mulheres a continuarem a lutar pelos seus direitos e a alcançarem sucesso nas suas carreiras e vidas pessoais. Além disso, pode ajudar a educar as pessoas sobre as mulheres que fizeram contribuições importantes para a nossa sociedade, e inspirar as futuras gerações.
+Talvez seja preciso haver uma ação vountária de reequilíbrio, dando mais nomes de mulheres a ruas, e talvez esse seja o primeiro passo para ajudar a aumentar o reconhecimento do papel desempenhado pelas mulheres na nossa História e nas nossas cidades.
 
-É precisamente por isso que decidi fazer uma análise que tente mostrar a desigualdade que existe, atualmente, na distribuição de ruas com nomes de mulheres quando comparado com ruas com nomes de homem. O mesmo foi feito para jardins, escolas e hospitais na cidade de Lisboa.
+Isso pode inspirar outras mulheres. Na luta pelos seus direitos e a alcançarem sucesso nas suas carreiras e vidas pessoais. Passando o testemunho para as próximas gerações.
+
+Foi precisamente por isso que decidi fazer uma análise que tente mostrar a desigualdade que existe, atualmente, na distribuição de ruas com nomes de mulheres, quando comparada com ruas com nomes de homem.
+
+O mesmo foi feito para jardins, escolas e hospitais na cidade de Lisboa.
 
 # Metodologia e tratamento de dados
 
-Usando dados da toponomia disponíveis pela Câmara Municipal de Lisboa em dados abertos, foi possível adicionar informação sobre a origem e biografia da pessoa que dá nome à rua, ano em que foi dado o nome atual, ou mesmo o nome pela qual era anteriormente conhecida.
+Usando dados da toponímia disponíveis na Câmara Municipal de Lisboa em dados abertos foi possível adicionar informação sobre a origem e biografia da pessoa que dá nome à rua, ano em que foi dado o nome, ou mesmo o nome pela qual era anteriormente conhecida.
 
-Como nem todas as ruas têm um nome referente a uma mulher ou homem, foram classificadas apenas as ruas onde isso era possível. Foram também excluídas ruas que tenham apenas um nome próprio, isto porque torna-se difícil identificar a origem dessa personalidade.
-Ruas de homens ou mulheres com apenas um nome próprio não foram contabilizadas (ex: Rua Maria).
-Obteve-se assim 3 resultados possíveis para ruas:
+Como nem todas as ruas têm um nome referente a uma mulher ou homem, foram classificadas apenas as ruas onde isso era possível. Foram também excluídas ruas que tenham apenas um nome próprio, isto porque se torna difícil identificar a origem dessa personalidade. Ruas de homens ou mulheres com apenas um nome próprio não foram contabilizadas (ex: Rua Maria). Obteve-se assim 3 resultados possíveis para ruas:
 - Homem
 - Mulher
 - N/A (Não aplicável)
@@ -37,9 +39,7 @@ Ao longo da análise vão ser usadas 3 cores nas visualizações:
 
 ## Toponomia
 
-Quando olhamos para distribuição geral das ruas, verificamos que temos praticamente 5 mil ruas no concelho de Lisboa.
-Dessas, conseguimos classificar X como sendo ruas com nomes de homens ou mulheres.
-Quando olhamos para a distribuição das que conseguimos classificar, este é o cenário:
+Quando olhamos para distribuição geral das ruas, verificamos que temos praticamente 5 mil ruas no concelho de Lisboa. Dessas, conseguimos classificar X como sendo ruas com nomes de homens ou mulheres. Quando olhamos para a distribuição das que conseguimos classificar, este é o cenário:
 
 [INTRODUZIR GRÁFICO PIE]
 
@@ -115,14 +115,11 @@ Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](h
 
 # Conclusão
 
-Como vimos nas visualizações acima, ainda existem poucas ruas, parques, escolas e hospitais com nomes de mulheres quando comparados com os que existem com nomes de homens.
-Para além disso, muitos dos nomes de mulheres são nomes de santas ou de rainhas, mais do que nos homens em percentagem de cada género.
+Como vimos nas visualizações acima, ainda existem poucas ruas, parques, escolas e hospitais com nomes de mulheres quando comparados com os que existem com nomes de homens. Para além disso, muitos dos nomes de mulheres são nomes de santas ou de rainhas, mais do que nos homens em percentagem de cada género.
 
-No entanto é nas ruas que talvez consigamos alterar esta desigualdade mais rapidamente.
-Existem várias razões pelas quais ainda existe uma grande descrepância entre as ruas com nomes de homens e mulheres. Em primeiro lugar, a história da maioria das sociedades tem sido contada principalmente pelos homens, e é por isso que a maioria das figuras históricas lembradas nas ruas são homens. Além disso, as mulheres enfrentam ainda muitas barreiras e desafios nas suas carreiras e vidas pessoais, o que as impede, potencialmente, de alcançar o mesmo nível de reconhecimento e sucesso que os homens. Isso faz com que haja menos mulheres a serem lembradas e homenageadas nas ruas.
+No entanto é nas ruas que talvez consigamos alterar esta desigualdade mais rapidamente. Existem várias razões pelas quais ainda existe uma grande discrepância entre as ruas com nomes de homens e mulheres. Em primeiro lugar, a história da maioria das sociedades tem sido contada principalmente pelos homens, e é por isso que a maioria das figuras históricas lembradas nas ruas são homens. Além disso, as mulheres enfrentam ainda muitas barreiras e desafios nas suas carreiras e vidas pessoais, o que as impede, potencialmente, de alcançar o mesmo nível de reconhecimento e sucesso que os homens. Isso faz com que haja menos mulheres a serem lembradas e homenageadas nas ruas.
 
-O objetivo desta análise foi apenas quantificar esta desigualdade e tentar que se inicíe o debate que é o mais produtivo, o de pensarmos em nomes de mulheres que tiveram um papel importante na cidade ou no país e que aind anão estam nas ruas de Lisboa. 
-Que sugestões têm?
+O objetivo desta análise foi apenas quantificar esta desigualdade e tentar que se inicie o debate que é o mais produtivo, o de pensarmos em nomes de mulheres que tiveram um papel importante na cidade ou no país e que ainda anão existam nas ruas de Lisboa. Que sugestões têm?
 
 
 # Notas
