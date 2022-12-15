@@ -48,7 +48,7 @@ Ao clicar numa rua podemos fica a saber mais sobre a sua origem, data em que pas
 
 Pelos dados de toponomia disponíveis no portal de dados abertos, consiguimos ter a data edital da grande parte das ruas aqui analisadas, mas não a sua totalidade. Dessa forma para os que têm data conseguimos fazer uma análise para perceber a distribuição ao longo das últimas décadas:
 
-<iframe src="https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/ANO_vs_Genero.html" height="700px" width="100%"></iframe>
+<iframe src="https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/ANO_vs_Genero.html" height="400px" width="100%"></iframe>
 
 Como podemos ver o cenário não tem vindo a melhorar significativamente, mesmo quando olhamos para os ultimos anos.
 
