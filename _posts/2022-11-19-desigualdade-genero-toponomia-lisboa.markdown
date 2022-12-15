@@ -2,7 +2,7 @@
 layout: post
 title: Desigualdade de Género na Toponomia de Lisboa
 date: 2022-11-19 00:00:00 +0300
-description: Quantas ruas têm nome de homem? Existem mais do que ruas ocm nomes de mulheres? # Add post description (optional)
+description: Quantas ruas têm nomes de homens? Existem mais do que ruas com nomes de mulheres? # Add post description (optional)
 img: logo_dif_genero.png # Add image post (optional)
 tags: [desigualdes, gendergap, toponomia, python, lisboa, homem, mulher] # add tag
 ---
@@ -26,6 +26,13 @@ Obteve-se assim 3 resultados possíveis para ruas:
 - Mulher
 - N/A (Não aplicável)
 
+Ao longo da análise vão ser usadas 3 cores nas visualizações:
+- Verde = Homem
+- Laranja = Mulher
+- Cinzento = N/A
+
+![Legenda]({{site.baseurl}}/assets/img/legend_genero.png)
+
 # Resultados
 
 ## Toponomia
@@ -44,13 +51,19 @@ Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](h
 
 Ao clicar numa rua podemos fica a saber mais sobre a sua origem, data em que passou a ter esse nome ou até saber qual a designação anterior.
 
-**E qual a distribuição do género ao longo do tempo?**
+### E qual a distribuição do género ao longo do tempo?
 
 Pelos dados de toponomia disponíveis no portal de dados abertos, consiguimos ter a data edital da grande parte das ruas aqui analisadas, mas não a sua totalidade. Dessa forma para os que têm data conseguimos fazer uma análise para perceber a distribuição ao longo das últimas décadas:
 
 <iframe src="https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/ANO_vs_Genero.html" height="400px" width="100%"></iframe>
 
 Como podemos ver o cenário não tem vindo a melhorar significativamente, mesmo quando olhamos para os ultimos anos.
+
+### Freguesias
+
+Será que existem freguesias que têm um equilibrio maior entre ruas de homens e mulheres? Vejamos o mapa abaixo:
+
+[INSERIR MAPA FREGEUSIAS]
 
 ## Jardins e Parques
 
@@ -114,7 +127,7 @@ Que sugestões têm?
 
 # Notas
 
-Todos os dados usados foram obtidos através dos portais de dados abertos disponíveis da Câmara Municipal de Lisboa.O trabalho foi possível graças à aposta que a Câmara de Lisboa tem feito ao longo de vários dados na disponibilização de dados ao público.
+Todos os dados usados foram obtidos através dos portais de dados abertos disponíveis da Câmara Municipal de Lisboa.O trabalho foi possível graças à aposta que a Câmara de Lisboa tem feito ao longo de vários anos na disponibilização de dados ao público.
 Os dados abertos promovem a transparência e a participação cívica, permitindo que os cidadãos acedam facilmente aos dados das suas cidades.
 
 
