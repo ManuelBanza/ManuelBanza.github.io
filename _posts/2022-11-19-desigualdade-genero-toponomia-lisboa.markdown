@@ -58,9 +58,6 @@ Quando aplicamos o mesmo raciocínio para os jardins e parques de Lisboa vemos q
 
 ![Género nos Jardins e Parques]({{site.baseurl}}/assets/img/parques_genero.png)
 
-teste:
-![Género nos Jardins e Parques]({{site.baseurl}}/assets/img/parques.svg)
-
 
 Abaixo o mapa onde é possível explorar por género:
 
