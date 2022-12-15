@@ -23,7 +23,7 @@ O mesmo foi feito para jardins, escolas e hospitais na cidade de Lisboa.
 
 Usando dados da toponímia disponíveis na Câmara Municipal de Lisboa em dados abertos foi possível adicionar informação sobre a origem e biografia da pessoa que dá nome à rua, ano em que foi dado o nome, ou mesmo o nome pela qual era anteriormente conhecida.
 
-Como nem todas as ruas têm um nome referente a uma mulher ou homem, foram classificadas apenas as ruas onde isso era possível. Foram também excluídas ruas que tenham apenas um nome próprio, isto porque se torna difícil identificar a origem dessa personalidade. Ruas de homens ou mulheres com apenas um nome próprio não foram contabilizadas (ex: Rua Maria). Obteve-se assim 3 resultados possíveis para ruas:
+Como nem todas as ruas têm um nome referente a uma mulher ou homem, foram classificadas apenas as ruas onde isso era possível. Foram também excluídas ruas que tenham apenas um nome próprio, isto porque se torna difícil identificar a origem dessa personalidade. Ruas de homens ou mulheres com apenas um nome próprio foram validadas uma a uma nos dados de toponomia disponibilizados pela Câmara Municipal de Lisboa. As que não existem nessa base de dados, não foram contabilizadas. Obteve-se assim 3 resultados possíveis para ruas:
 - Homem
 - Mulher
 - N/A (Não aplicável)
@@ -39,15 +39,15 @@ Ao longo da análise vão ser usadas 3 cores nas visualizações:
 
 ## Toponomia
 
-Quando olhamos para distribuição geral das ruas, verificamos que temos praticamente 5 mil ruas no concelho de Lisboa. Dessas, conseguimos classificar X como sendo ruas com nomes de homens ou mulheres. Quando olhamos para a distribuição das que conseguimos classificar, este é o cenário:
+Quando olhamos para distribuição geral das ruas, verificamos que temos praticamente 5 mil ruas no concelho de Lisboa. Das que conseguimos classificar, este é o cenário:
 
-[INTRODUZIR GRÁFICO PIE]
+![Género por Ruas]({{site.baseurl}}/assets/img/ruas_genero.png)
 
 No mapa abaixo conseguimos visualizar as todas as ruas de Lisboa por género:
 
-<iframe src="https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/01.Toponomia_Ruas_Genero_read_only.html" height="700px" width="100%"></iframe>
+<iframe src="https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/05.Ruas_Genero_read_only.html" height="700px" width="100%"></iframe>
 
-Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/01.Toponomia_Ruas_Genero_read_only.html)
+Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/05.Ruas_Genero_read_only.html)
 
 Ao clicar numa rua podemos fica a saber mais sobre a sua origem, data em que passou a ter esse nome ou até saber qual a designação anterior.
 
