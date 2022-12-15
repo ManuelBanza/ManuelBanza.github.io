@@ -47,7 +47,8 @@ No mapa abaixo conseguimos visualizar as todas as ruas de Lisboa por género:
 
 <iframe src="https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/05.Ruas_Genero_read_only.html" height="700px" width="100%"></iframe>
 
-Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/05.Ruas_Genero_read_only.html)
+Arraste o mapa e clique nos objetos para obter mais informação.
+Para ver o mapa maior em versão mobile ou em ecrá completo clique [AQUI](https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/05.Ruas_Genero_read_only.html)
 
 Se tivermos em conta apenas os que são possíveis de identificar o nome de homem ou mulher, vemos que **apenas 9% das ruas, avenidas, praças, etc, têm nomes de mulheres.**
 
@@ -81,7 +82,8 @@ Abaixo o mapa onde é possível explorar por género:
 
 <iframe src="https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/02.Jardins_Genero_read_only.html" height="700px" width="100%"></iframe>
 
-Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/02.Jardins_Genero_read_only.html)
+Arraste o mapa e clique nos objetos para obter mais informação.
+Para ver o mapa maior em versão mobile ou em ecrá completo clique  clique [AQUI](https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/02.Jardins_Genero_read_only.html)
 
 
 ## Escolas
@@ -99,7 +101,8 @@ Abaixo o mapa onde é possível explorar por género:
 
 <iframe src="https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/03.Escolas_Genero_read_only.html" height="700px" width="100%"></iframe>
 
-Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/03.Escolas_Genero_read_only.html)
+Arraste o mapa e clique nos objetos para obter mais informação.
+Para ver o mapa maior em versão mobile ou em ecrá completo clique  clique [AQUI](https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/03.Escolas_Genero_read_only.html)
 
 
 ## Hospitais
@@ -115,7 +118,8 @@ Abaixo o mapa dos hospitais com informação do género:
 
 <iframe src="https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/04.Hospitais_Genero_read_only.html" height="700px" width="100%"></iframe>
 
-Para ver mapa interactivo em versão mobile ou em ecrá completo clique [AQUI](https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/04.Hospitais_Genero_read_only.html)
+Arraste o mapa e clique nos objetos para obter mais informação.
+Para ver o mapa maior em versão mobile ou em ecrá completo clique clique [AQUI](https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/04.Hospitais_Genero_read_only.html)
 
 
 # Conclusão
