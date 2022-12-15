@@ -63,7 +63,7 @@ Como podemos ver o cenário não tem vindo a melhorar significativamente, mesmo 
 
 Será que existem freguesias que têm um equilibrio maior entre ruas de homens e mulheres? Vejamos o mapa abaixo:
 
-<iframe src="https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/Freguesias_Genero_Percent.html" height="400px" width="100%"></iframe>
+<iframe src="https://manuelbanza.github.io/Artigos/Toponomia_DIferenca_Genero/Freguesias_Genero_Percent.html" height="425px" width="100%"></iframe>
 
 Como podemos verificar, as freguesias de São Vicente, Carnide e Campode Ourique, são as freguesias que mais nomes de mulheres têm em percentagem do total que foi possível classificar.
 
