@@ -122,7 +122,8 @@ Como vimos nas visualizações acima, ainda existem poucas ruas, parques, escola
 
 No entanto é nas ruas que talvez consigamos alterar esta desigualdade mais rapidamente. Existem várias razões pelas quais ainda existe uma grande discrepância entre as ruas com nomes de homens e mulheres. Em primeiro lugar, a história da maioria das sociedades tem sido contada principalmente pelos homens, e é por isso que a maioria das figuras históricas lembradas nas ruas são homens. Além disso, as mulheres enfrentam ainda muitas barreiras e desafios nas suas carreiras e vidas pessoais, o que as impede, potencialmente, de alcançar o mesmo nível de reconhecimento e sucesso que os homens. Isso faz com que haja menos mulheres a serem lembradas e homenageadas nas ruas.
 
-O objetivo desta análise foi apenas quantificar esta desigualdade e tentar que se inicie o debate que é o mais produtivo, o de pensarmos em nomes de mulheres que tiveram um papel importante na cidade ou no país e que ainda anão existam nas ruas de Lisboa. Que sugestões têm?
+O objetivo desta análise foi apenas quantificar esta desigualdade e tentar que se inicie o debate que é o mais produtivo, o de pensarmos em nomes de mulheres que tiveram um papel importante na cidade ou no país e que ainda não existam nas ruas de Lisboa. 
+Que sugestões têm? Que mulheres deveriam ter uma rua com o seu nome? 
 
 
 # Notas
