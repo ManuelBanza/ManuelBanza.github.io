@@ -136,3 +136,12 @@ Que sugestões têm? Que mulheres deveriam ter uma rua com o seu nome?
 
 Todos os dados usados foram obtidos através dos portais de dados abertos disponíveis da Câmara Municipal de Lisboa.O trabalho foi possível graças à aposta que a Câmara de Lisboa tem feito ao longo de vários anos na disponibilização de dados ao público.
 Os dados abertos promovem a transparência e a participação cívica, permitindo que os cidadãos acedam facilmente aos dados das suas cidades.
+
+## Dados Toponomia
+O dataset final, já com os tratamentos de dados e que foi usado para as visualizações das ruas pode ser descarregado através do seguinte link [Ruas_Toponomias](https://docs.google.com/spreadsheets/d/e/2PACX-1vRZPf7j_LjxPJTlEPFFIMid-e-G0enRnmN-FVGO8RzYcUQK6Zf7yBe5HyiL0B6ZMl0Yp-6w2XGroeHD/pubhtml)
+
+A mesma tabela pode ser consultada abaixo:
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZPf7j_LjxPJTlEPFFIMid-e-G0enRnmN-FVGO8RzYcUQK6Zf7yBe5HyiL0B6ZMl0Yp-6w2XGroeHD/pubhtml?gid=62937768&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+
+
