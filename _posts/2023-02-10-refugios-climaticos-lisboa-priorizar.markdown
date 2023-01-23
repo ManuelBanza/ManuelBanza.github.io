@@ -48,6 +48,7 @@ O efeito de ilha de calor pode ser agravado por vários fatores, incluindo a fal
 
 Como falado anteriormente, algumas das formas de mitigar este efeito e as ondas de calor extremo, é termos na cidade vários jardins, bibliotecas, zonas de refresco com bebedouro, fontes e lagos, que permitam fazer baixar a temperatura na cidade e ajudar o organismo do ser humano a manter-se hidratado em períodos com temperaturas elevadas.
 Qual a localização destes pontos na cidade? Será que existe uma relação entre estes locais e as zonas de maior exposição e incidência solar?
+
 Na figura abaixo visualizamos a distribuição espacial destes pontos de interesse:
 
 <iframe src="https://manuelbanza.github.io/Artigos/Refugios_Climaticos/02.2.Refugios_Locais_ICU_Lisboa.html" height="700px" width="100%"></iframe>
@@ -86,7 +87,7 @@ populacional e que se encontram a mais de 10 minutos a pé de um jardim ou parqu
 
 ## Arvoredo
 Outro fator importante de analisarmos é também as árvores que estão espalhadas
-pela cidade e não apenas os parques e jardins. Dessa forma contabilizou-se a distribuição de árvores na cidade como é possível verificar na Figura 6.
+pela cidade e não apenas os parques e jardins. Dessa forma contabilizou-se a distribuição de árvores na cidade.
 
 ![Árvores na cidade de Lisboa]({{site.baseurl}}/assets/img/07.Arvores.png)
 
@@ -108,6 +109,8 @@ Para isso é proposto usar 5 fatores com pesos diferentes de importância:
 5. Proximidade Bibliotecas: Distância a pé da biblioteca municipal mais próxima (10%)
 
 ![Variáveis e pesos para o cálculo do score]({{site.baseurl}}/assets/img/08.Score_calculo.png)
+
+<img src="{{site.baseurl}}/assets/img/08.Score_calculo.png" width="100" height="100" />
 
 
 Este cálculo foi feito a cada hexágono (H3) que tem aproximadamente cerca de 105 mil m2. O sistema H3 (Hexagonal Hierarchical Spatial Index) é uma das melhores formas de tratar dados geoespaciais devido à sua capacidade de dividir o espaço em hexágonos de forma hierárquica, permitindo uma rápida agregação e filtragem de dados.
