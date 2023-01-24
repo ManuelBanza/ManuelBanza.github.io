@@ -8,7 +8,6 @@ tags: [refugiois-climaticos, calor, alteracoes-climaticas, python, lisboa, GIS] 
 ---
 
 # Nota Inicial
-
 No passado dia 11 de Julho de 2022, o partido LIVRE apresentou uma [proposta de recomendação na Assembleia Municipal de Lisboa](https://www.am-lisboa.pt/documentos/1657546422W9xBS2fd2Hh92QY7.pdf), que propunha entre outras coisas, a criação de uma rede de refúgios climáticos na cidade de Lisboa, de forma a mitigar os efeitos causados por ondas de calor. A proposta foi aprovada.
 
 Este artigo serve como tentativa de analisar os factores que se devem ter em conta na criação de refúgios climáticos, e foca-se nos locais que mais difíilmente seriam hoje em dia adaptados para esse efeito, tornando a sua prioridade ainda maior.
@@ -196,3 +195,6 @@ No ínicio do ano ficaḿos também a saber pelo site [Lisboa Para Pessoas]((htt
 É importante destacar que os refúgios climáticos não são a única solução para as alterações climáticas, mas são uma peça importante. É necessário continuar trabalhando em outras medidas de mitigação e adaptação, incluindo a redução das emissões de gases de efeito estufa, a conservação e restauração de ecossistemas e a promoção de práticas sustentáveis.
 
 No entanto, os refúgios climáticos podem ser um poderoso catalisador para mudanças positivas, ao mobilizar as comunidades e os espaços públicos para o convívio e a reflexão sobre as questões climáticas. É fundamental que continuemos a investir em iniciativas como essas, para garantir um futuro mais sustentável e seguro para todos.
+
+# Metodologia
+Dados e H3
