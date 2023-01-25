@@ -31,8 +31,7 @@ Desta forma torna-se cada vez mais pertinente criar uma rede de refúgios espalh
 Os refúgios climáticos defendidos nesta análise, caracterizam-se por serem espaços de encontro e convívio. Quando as pessoas têm um lugar para se reunir e conviver, eles são mais propensos a serem usados e aproveitados. Esses espaços podem ter uma série de características que os tornam mais agradáveis e proporcionadores de interações para as pessoas, como bancos, espaços para realizar atividades ao ar livre, jogos, áreas sombreadas e outras instalações que tornam o local um bom lugar para passar o tempo. Além disso, os refúgios climáticos também podem ter elementos de lazer e entretenimento, como brinquedos para crianças.
 
 
-<center><img src="{{site.baseurl}}/assets/img/01.Exemplos_Refugios" width="600" height="400"></center>
-
+<center><img src="{{site.baseurl}}/assets/img/01.Exemplos_Refugios.png" width="400" height="400"></center>
 <center>Exemplos Refúgios Climáticos em Barcelona, Berlim e Milão</center>
 
 
@@ -116,7 +115,7 @@ Para isso é proposto usar 5 fatores com pesos diferentes de importância:
 5. Proximidade Bibliotecas: Distância a pé da biblioteca municipal mais próxima (10%)
 
 
-<center><img src="{{site.baseurl}}/assets/img/08.Score_calculo.png" width="450" height="400"></center>
+<center><img src="{{site.baseurl}}/assets/img/08.Score_calculo.png" width="500" height="400"></center>
 <center>Score de identificação de zonas prioritárias</center>
 
 
