@@ -46,7 +46,7 @@ Para conhecermos melhor a realidade de Lisboa, precisamos primeiro de mapear pel
 
 
 O efeito de ilha de calor é um fenômeno que ocorre em áreas urbanas e que consiste na acumulação de calor nessas mesmas áreas, e em comparação com as áreas rurais circundantes. Isso ocorre devido às diferenças na absorção e reflexão da radiação solar pelos materiais usados na construção das cidades. As áreas urbanas tendem a absorver mais calor do que as áreas rurais, o que leva a temperaturas mais altas nas cidades.
-**O efeito de ilha de calor pode ser agravado por vários fatores, incluindo a falta de vegetação e a construção de edifícios e asfalto** que faz aumentar a quantidade de superfícies impermeáveis, o que pode aumentar a retenção de calor nessas zonas. O efeito de ilha de calor pode ter sérias consequências para a saúde humana, incluindo desidratação, desmaio e doenças respiratórias.
+**O efeito de ilha de calor pode ser agravado por vários fatores, incluindo a falta de vegetação e a construção de edifícios e asfalto** que faz aumentar a quantidade de superfícies impermeáveis, o que pode aumentar a retenção de calor nessas zonas. O efeito de ilha de calor urbano (ICU) pode ter sérias consequências para a saúde humana, incluindo desidratação, desmaio e doenças respiratórias.
 
 Como falado anteriormente, algumas das formas de mitigar este efeito e as ondas de calor extremo, é termos na cidade vários jardins, bibliotecas, zonas de refresco com bebedouro, fontes e lagos, que permitam fazer baixar a temperatura na cidade e ajudar o organismo do ser humano a manter-se hidratado em períodos com temperaturas elevadas.
 Qual a localização destes pontos na cidade? Será que existe uma relação entre estes locais e as zonas de maior exposição e incidência solar?
