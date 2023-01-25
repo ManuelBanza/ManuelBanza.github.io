@@ -10,19 +10,20 @@ tags: [refugiois-climaticos, calor, alteracoes-climaticas, python, lisboa, GIS] 
 # Nota Inicial
 No passado dia 11 de Julho de 2022, o partido LIVRE apresentou uma [proposta de recomendação na Assembleia Municipal de Lisboa](https://www.am-lisboa.pt/documentos/1657546422W9xBS2fd2Hh92QY7.pdf), que propunha entre outras coisas, a criação de uma rede de refúgios climáticos na cidade de Lisboa, de forma a mitigar os efeitos causados por ondas de calor. A proposta foi aprovada.
 
-Este artigo serve como tentativa de analisar os factores que se devem ter em conta na criação de refúgios climáticos, e foca-se nos locais que mais difíilmente seriam hoje em dia adaptados para esse efeito, tornando a sua prioridade ainda maior.
+Este artigo serve como tentativa de analisar os factores que se devem ter em conta na criação de refúgios climáticos, e foca-se nos locais que mais difícilmente seriam hoje em dia adaptados para esse efeito, tornando a sua prioridade ainda maior.
 
 # Introdução
 Como resultado das alterações climáticas, a cidade tem sofrido com ondas de calor mais frequentes e intensas, mas também precipitações mais irregulares. Além disso, o aumento do nível do mar pode ameaçar algumas áreas da cidade, especialmente aquelas situadas em áreas baixas ou próximas da costa. Com os efeitos das alterações climáticas a serem cada vez mais visíveis na cidade, e as ondas de calor cada vez mais frequentes durante o ano, é necessário que a cidade encontre medidas de mitigação para o calor que cada vez será mais sentido na cidade.
 
 Uma das medidas identificadas no relatório Focused Adaptation, de 2021, realizado para a rede C40, é a criação de “cooling centers” (cuja tradução literal será “centros de arrefecimento”), locais onde as pessoas se podem refugiar durante ondas de calor, em zonas com vegetação ou locais fechados com de ar condicionado.
-Os refúgios climáticos são áreas ou espaços urbanos que proporcionam proteção e conforto para as pessoas em condições climáticas adversas, como o calor extremo. Eles são importantes para as cidades porque podem ajudar a mitigar os efeitos das alterações climáticas, como o aquecimento global e as ondas de calor, que podem ser desconfortáveis e até mesmo perigosas para a saúde humana.
+Os refúgios climáticos são áreas ou espaços urbanos que proporcionam proteção e conforto para as pessoas em condições climáticas adversas, como o calor extremo. 
 Os refúgios climáticos podem ser criados de várias maneiras, como por exemplo:
 - Usando árvores, arbustos e outras plantas para criar sombra e refrescar o ar
 - Instalando equipamentos de refrigeração, como ventiladores, sistemas de ar-condicionado
 ou nebulizadores
 - Aproveitamento da sombra natural e a brisa para refrigeração natural
-Além de proporcionar conforto e segurança para as pessoas, os refúgios climáticos também podem ajudar a reduzir o consumo de energia, pois as pessoas podem se abrigar nesses espaços em vez de usar aparelhos de ar-condicionado em sua casa, optando por partilhar o recurso. Isso pode contribuir para a redução das emissões de gases de efeito estufa, um dos principais responsáveis pelas alterações climáticas.
+
+Além de proporcionar conforto e segurança para as pessoas, os refúgios climáticos também podem ajudar a reduzir o consumo de energia, pois as pessoas podem se abrigar nesses espaços em vez de usar aparelhos de ar-condicionado em sua casa, optando por partilhar o recurso.
 
 Desta forma torna-se cada vez mais pertinente criar uma rede de refúgios espalhados pela cidade de Lisboa, que ajude a mitigar as ondas de calor. Para isso é preciso identificar os locais que mais urgência têm na criação de um refúgio tendo em conta vários fatores.
 
@@ -43,7 +44,7 @@ Para conhecermos melhor a realidade de Lisboa, precisamos primeiro de mapear pel
 
 
 O efeito de ilha de calor é um fenômeno que ocorre em áreas urbanas e que consiste na acumulação de calor nessas mesmas áreas, e em comparação com as áreas rurais circundantes. Isso ocorre devido às diferenças na absorção e reflexão da radiação solar pelos materiais usados na construção das cidades. As áreas urbanas tendem a absorver mais calor do que as áreas rurais, o que leva a temperaturas mais altas nas cidades.
-O efeito de ilha de calor pode ser agravado por vários fatores, incluindo a falta de vegetação e a construção de edifícios e asfalto que faz aumentar a quantidade de superfícies impermeáveis, o que pode aumentar a retenção de calor nessas zonas. O efeito de ilha de calor pode ter sérias consequências para a saúde humana, incluindo desidratação, desmaio e doenças respiratórias.
+**O efeito de ilha de calor pode ser agravado por vários fatores, incluindo a falta de vegetação e a construção de edifícios e asfalto** que faz aumentar a quantidade de superfícies impermeáveis, o que pode aumentar a retenção de calor nessas zonas. O efeito de ilha de calor pode ter sérias consequências para a saúde humana, incluindo desidratação, desmaio e doenças respiratórias.
 
 Como falado anteriormente, algumas das formas de mitigar este efeito e as ondas de calor extremo, é termos na cidade vários jardins, bibliotecas, zonas de refresco com bebedouro, fontes e lagos, que permitam fazer baixar a temperatura na cidade e ajudar o organismo do ser humano a manter-se hidratado em períodos com temperaturas elevadas.
 Qual a localização destes pontos na cidade? Será que existe uma relação entre estes locais e as zonas de maior exposição e incidência solar?
@@ -74,8 +75,8 @@ Após este processo e para facilitar a leitura, todos os nós (interceções) fo
 
 Nota: Os hexágonos amarelos indicam que essa zona está em média até 5 minutos a pé, o laranja 10 minutos e o roxo a mais de 10 minutos.
 
-Na Figura 4 podemos verificar algumas zonas que estão com a cor roxa, que significa que estão a mais de 10 minutos a pé de pelo menos um jardim ou parque, podendo ser valores piores caso estejamos a falar de uma população mais envelhecida e que acaba por demorar mais a fazer este percurso do que a média da população. Algumas dessas zonas estão na zona norte e sudeste de Lisboa.
-No entanto, quando adicionamos a variável de densidade populacional (Figura 5) verificamos que a zona norte não é tanto um problema, nem prioritário para haver um refúgio climático, isto porque nesta zona situa-se o aeroporto de Lisboa, não havendo população que resida neste local. Já a zona sudeste ganha maior urgência por ser uma das zonas com maior densidade populacional.
+Na imagem acima podemos verificar algumas zonas que estão com a cor roxa, que significa que estão a mais de 10 minutos a pé de pelo menos um jardim ou parque, podendo ser valores piores caso estejamos a falar de uma população mais envelhecida e que acaba por demorar mais a fazer este percurso do que a média da população. Algumas dessas zonas estão na zona norte e sudeste de Lisboa.
+No entanto, quando adicionamos a variável de densidade populacional (imagem abaixo) verificamos que a zona norte não é tanto um problema, nem prioritário para haver um refúgio climático, isto porque nesta zona situa-se o aeroporto de Lisboa, não havendo população que resida neste local. Já a zona sudeste ganha maior urgência por ser uma das zonas com maior densidade populacional.
 
 ![Proximidade a Parques e Jardins com Densidade Populacional]({{site.baseurl}}/assets/img/05.Proximidade_Jrdins_Pop.png)
 
@@ -108,7 +109,7 @@ Para isso é proposto usar 5 fatores com pesos diferentes de importância:
 5. Proximidade Bibliotecas: Distância a pé da biblioteca municipal mais próxima (10%)
 
 
-<center><img src="{{site.baseurl}}/assets/img/08.Score_calculo.png" width="400" height="400"></center>
+<center><img src="{{site.baseurl}}/assets/img/08.Score_calculo.png" width="450" height="400"></center>
 
 
 Este cálculo foi feito a cada hexágono (H3) que tem aproximadamente cerca de 105 mil m2. O sistema H3 (Hexagonal Hierarchical Spatial Index) é uma das melhores formas de tratar dados geoespaciais devido à sua capacidade de dividir o espaço em hexágonos de forma hierárquica, permitindo uma rápida agregação e filtragem de dados.
