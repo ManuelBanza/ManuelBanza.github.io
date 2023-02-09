@@ -95,6 +95,8 @@ pela cidade e não apenas os parques e jardins, já que estas têm um papel fund
 
 <center><img src="{{site.baseurl}}/assets/img/video_arvores_calor.gif" width="600" height="400"></center>
 
+<center>Fonte: Wimberly Allison Tong & Goo</center>
+
 Dessa forma contabilizou-se a distribuição de árvores na cidade.
 
 ![Árvores na cidade de Lisboa]({{site.baseurl}}/assets/img/07.Arvores.png)
