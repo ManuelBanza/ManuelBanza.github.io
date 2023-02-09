@@ -7,6 +7,8 @@ img: Capa_Refugios.png # Add image post (optional)
 tags: [refugiois-climaticos, calor, alteracoes-climaticas, python, lisboa, GIS] # add tag
 ---
 
+**To directly translate this article to English with Google, please [click here](https://manuelbanza-github-io.translate.goog/refugios-climaticos-lisboa-priorizar/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+
 # Nota Inicial
 No passado dia 11 de Julho de 2022, o partido LIVRE apresentou uma [proposta de recomendação na Assembleia Municipal de Lisboa](https://www.am-lisboa.pt/documentos/1657546422W9xBS2fd2Hh92QY7.pdf), que propunha entre outras coisas, a criação de uma rede de refúgios climáticos na cidade de Lisboa, de forma a mitigar os efeitos causados por ondas de calor. A proposta foi aprovada.
 
