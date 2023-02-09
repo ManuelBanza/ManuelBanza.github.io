@@ -228,7 +228,7 @@ Numa futura revisão da análise, seria interessante obter dados da sombra ao lo
 Esta análise identificou os casos com maior necessidade com base nos atributos selecionados, no entanto, no futuro seria interessante analisar os espaços que hoje são jardins mas ainda não têm as condições de serem considerados um refúgio. Dessa forma, seria interessante criar um conjunto de regras que fazem de um espaço um possível refúgio, bem como o que falta implementar em certos locais para passarem a ser um.
 
 # Metodologia
-Os dados foram obtidos através das plataformas de dados abertos da cidade de Lisboa (Geodados, LXI), colecta manual nos casos das bibliotecas e piscinas municipais e ainda através de dados gerados pela comunidade online, como é o caso dos jardins e parques de Lisboa, dataset criado pelo Miguel a ao qual agradeço a criaçao e disponibilização.
+Os dados foram obtidos através das plataformas de dados abertos da cidade de Lisboa (Geodados, LXI), colecta manual nos casos das bibliotecas e piscinas municipais e ainda através de dados gerados pela comunidade online, como é o caso dos jardins e parques de Lisboa, dataset criado pelo Miguel Monteiro ao qual agradeço a criação e disponibilização.
 Esta análise apenas é possível graças à aposta da Câmara Municipal de Lisboa nos dados abertos e que espero que venha ainda a aumentar, bem como os projectos comunitários que cada vez mais ganham terreno.
 
 A unidade de análise geográfica utilizada para este projecto foi o H3 com a resolução 9. O sistema H3 (Hexagonal Hierarchical Spatial Index) é uma das melhores formas de tratar dados geoespaciais devido à sua capacidade de dividir o espaço em hexágonos de forma hierárquica, permitindo uma rápida agregação e filtragem de dados.
