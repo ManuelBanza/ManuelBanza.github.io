@@ -93,7 +93,7 @@ populacional e que se encontram a mais de 10 minutos a pé de um jardim ou parqu
 Outro fator importante de analisarmos é também as árvores que estão espalhadas
 pela cidade e não apenas os parques e jardins, já que estas têm um papel fundamental para conseguir baixar a temperatura sentida na cidade, como podemos ver na animação abaixo.
 
-<center><img src="{{site.baseurl}}/assets/img/video_arvores_calor.gif" width="400" height="400"></center>
+<center><img src="{{site.baseurl}}/assets/img/video_arvores_calor.gif" width="600" height="400"></center>
 
 Dessa forma contabilizou-se a distribuição de árvores na cidade.
 
