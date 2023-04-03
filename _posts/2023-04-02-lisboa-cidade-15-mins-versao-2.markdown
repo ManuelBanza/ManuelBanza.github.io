@@ -17,13 +17,14 @@ O conceito foi originalmente criado por Carlos Moreno, Professor universitário,
 Carlos Moreno defende a ideia que a melhor mobilidade é aquela que é mais reduzida e que garante a acessibilidade a tudo o que precisamos para o nosso dia a dia. Sendo que essa distância deverá ser até 15 mins, seja a pé ou de bicicleta.
 O objectivo é tornar cidades e bairros em locais vibrantes, cheios de vida e interação humana, trazendo o sentido de comunidade. Devolver as cidades às pessoas combatendo as alterações climáticas e tornando-as mais sustentáveis.
 
+No contexto do 2º Conselho de Cidadãos da Cidade de Lisboa, atualizei a [análise feita em 2021](https://lisboa---cidade-de-15-minutos.webnode.pt/) e desenvolvi um mapa mais interactivo onde é possível selecionarmos uma morada como ponto de partida (canto superior direito do mapa abaixo) e perceber qual a distância que conseguimos fazer a pé ou de bicicleta, desde essa determinada morada.
 Descobre abaixo se vives num bairro de 15 minutos
 
 ## Mapa Interactivo
 
 <iframe src="https://manuelbanza.github.io/Artigos/15min/Mapa_15Mins_v2.html" height="700px" width="100%"></iframe>
 
-
+[Link para explorar o mapa com maior detalhe](https://manuelbanza.github.io/Artigos/15min/Mapa_15Mins_v2.html)
 
 
 # Comunicação Social
