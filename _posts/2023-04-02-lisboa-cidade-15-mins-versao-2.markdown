@@ -21,8 +21,6 @@ Descobre abaixo se vives num bairro de 15 minutos
 
 ## Mapa Interactivo
 
-![Modelos dos 15 mins em Alvalade]({{site.baseurl}}/assets/img/alvalade2.gif)
-
 <iframe src="https://manuelbanza.github.io/Artigos/15min/Mapa_15Mins_v2.html" height="700px" width="100%"></iframe>
 
 
