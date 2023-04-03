@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lisboa como cidade dos 15 minutos: Um mapa interativo
+title: Lisboa como cidade dos 15 minutos - Um mapa interativo
 date: 2023-04-02 13:32:20 +0300
 description: A pé ou de bicicleta? Está a tua rua dentro de uma Lisboa de 15 minutos? Descobre aqui # Add post description (optional)
 img: Cidade15Minutos_capa.png # Add image post (optional)
