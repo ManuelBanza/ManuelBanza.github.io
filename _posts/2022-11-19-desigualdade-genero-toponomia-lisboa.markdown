@@ -140,6 +140,11 @@ Os dados abertos promovem a transparência e a participação cívica, permitind
 ## Dados Toponomia
 O dataset final, já com os tratamentos de dados e que foi usado para as visualizações das ruas pode ser consultado e descarregado através do seguinte link [Ruas_Toponomias](https://docs.google.com/spreadsheets/d/15bzMTojRxbLm5LcukrK9ZhnkSkRZEA4MQwLt9YHPOPM/edit#gid=62937768)
 
+# Impacto
+A análise de dados pode ter um papel crucial na política e na pressão pública para mudanças positivas e construtivas. Como resultado deste trabalho, foi apresentada, em reunião de câmara pelo PS, uma proposta na Câmara Municipal de Lisboa  para dar nomes de mulheres a ruas sem nome, jardins e edifícios, a fim de corrigir a predominância masculina na toponímia da cidade. Esta proposta foi aprovada por unanimidade por todos os partidos com vereação. Este exemplo destaca como a análise de dados pode ser usada para identificar e corrigir desigualdades históricas e promover uma sociedade mais justa e equitativa. Para mais informações, consulte o seguinte link:
+
+[Lisboa vai dar nomes de mulheres a ruas sem nome, jardins e edifícios, para reparar uma cidade de toponímia masculina](https://amensagem.pt/2023/03/17/lisboa-vai-dar-nomes-de-mulheres-ruas-sem-nome-jardins-edificios-toponimia/)
+
 # Comunicação Social
 
 Este artigo foi reproduzido nos seguintes orgãos de comunicação social:
