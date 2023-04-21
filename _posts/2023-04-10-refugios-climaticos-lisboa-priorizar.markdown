@@ -210,9 +210,9 @@ Um processo de cocriação e pesquisa etnográfica pode ser uma forma eficaz de 
 
 Os refúgios podem também ser uma construção colectiva de esperança. A de um imaginário colectivo emancipatório que nos permitirá reclamar o espaço público, criando momentos de proximidade ao mesmo tempo que mitigam as alterações climáticas. 
 
-Ao considerar as necessidades e desejos das comunidades locais, é mais provável que os refúgios climáticos sejam criados de forma mais eficaz e duradoura. Além disso, a participação ativa das comunidades no processo de cocriação pode promover a responsabilização e o envolvimento das pessoas, o que pode aumentar a probabilidade de sucesso a longo prazo dos refúgios climáticos.
+Ao considerar as necessidades e desejos das comunidades locais, é mais provável que os refúgios climáticos sejam criados de forma mais eficaz e duradoura. Além disso, a participação ativa das comunidades no processo de cocriação pode promover a responsabilização e o envolvimento das pessoas, o que pode aumentar a probabilidade de sucesso a longo prazo dos refúgios climáticos. Vejamos por exemplo [casos como o projeto Sê Bairrista em Marvila](https://amensagem.pt/2023/03/29/vizinhos-bairros-chelas-fizeram-dos-bairros-sitios-mais-bonitos-festival/), que com a ajuda da [Rés do Chão](https://resdochao.org/), associação especializada em arquitectura participada, se conseguiu criar com a população soluções pensadas pela comunidade.
 
-No entanto o mais importante é começar. Mesmo que seja algo pequeno que possa mais tarde evoluir já com aprendizagens obtidas no processo. Como refere o Brian Eno **"Think like a gardener, not an architect:design beginnings, not endings".**
+No entanto o mais importante é começar. Mesmo que seja algo pequeno que possa mais tarde evoluir já com aprendizagens obtidas no processo. Como refere o Brian Eno **"Think like a gardener, not an architect: design beginnings, not endings".**
 
 
 <center><img src="{{site.baseurl}}/assets/img/09.processo_etnografico.png" width="400" height="400"></center>
