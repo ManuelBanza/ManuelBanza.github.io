@@ -8,4 +8,6 @@ tags: [entrevista, ciencia de dados, género, política, Lisboa, participação,
 ---
 Mais importante do que os próprios dados é o que fazemos com eles. Em Lisboa, Manuel Banza usa os dados para revelar a cidade.
 
-<iframe src="https://www.rtp.pt/play/p4068/e696321/geracao-digital" height="700px" width="100%"></iframe>
+[Link para o episódio na RTP Play](https://www.rtp.pt/play/p4068/e696321/geracao-digital)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6bYkUEDD8Bke8nYGSKod9l?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
