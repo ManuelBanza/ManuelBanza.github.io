@@ -50,7 +50,7 @@ Para conhecermos melhor a realidade de Lisboa, precisamos primeiro de mapear pel
 <center>Ilha de calor ao entardecer (variação em graus centigrados</center>
 
 
-O efeito de ilha de calor é um fenômeno que ocorre em áreas urbanas e que consiste na acumulação de calor nessas mesmas áreas, e em comparação com as áreas rurais circundantes. Isso ocorre devido às diferenças na absorção e reflexão da radiação solar pelos materiais usados na construção das cidades. As áreas urbanas tendem a absorver mais calor do que as áreas rurais, o que leva a temperaturas mais altas nas cidades.
+O efeito de ilha de calor é um fenómeno que ocorre em áreas urbanas e que consiste na acumulação de calor nessas mesmas áreas, e em comparação com as áreas rurais circundantes. Isso ocorre devido às diferenças na absorção e reflexão da radiação solar pelos materiais usados na construção das cidades. As áreas urbanas tendem a absorver mais calor do que as áreas rurais, o que leva a temperaturas mais altas nas cidades.
 **O efeito de ilha de calor pode ser agravado por vários fatores, incluindo a falta de vegetação e a construção de edifícios e asfalto** que faz aumentar a quantidade de superfícies impermeáveis, o que pode aumentar a retenção de calor nessas zonas. O efeito de ilha de calor urbano (ICU) pode ter sérias consequências para a saúde humana, incluindo desidratação, desmaio e doenças respiratórias.
 
 Como falado anteriormente, algumas das formas de mitigar este efeito e as ondas de calor extremo, é termos na cidade vários jardins, bibliotecas, zonas de refresco com bebedouro, fontes e lagos, que permitam fazer baixar a temperatura na cidade e ajudar o organismo do ser humano a manter-se hidratado em períodos com temperaturas elevadas.
@@ -183,7 +183,7 @@ Uma das zonas com maior densidade populacional de Lisboa, é também uma das zon
 
 ## Parque das Nações (5)
 Apesar de esta zona ter vários jardins e bastantes árvores, comparada com outras zonas da cidade, é das zonas que mais sofre o efeito de ilha de calor.
-Segundo uma reportagem do jornal “o Público”, esta razão deve-se ao facto de a nova construção feita nesta zona da cidade, na altura da EXPO 90, não teve em consideração o impacto ambiental que esses prédios tinham na circulação de ar entre os prédios.
+Segundo uma reportagem do jornal “o Público”, esta razão deve-se ao facto de a nova construção feita nesta zona da cidade, na altura da Expo'98, não teve em consideração o impacto ambiental que esses prédios tinham na circulação de ar entre os prédios.
 Tratando-se de prédios altos, dificultam ainda mais a circulação de ar. Caminhando entre os prédios do Parque das Nações, as brisas do rio Tejo deixam mesmo de ali chegar. Essa diferença de poucos metros regista aumentos de 2º C.
 A acrescentar ao problema atual, é sabido que as alterações climáticas irão ser sentidas de maior forma nesta parte de Lisboa no que toca a ondas de maior calor. Algo que apenas reforça a necessidade de serem criados refúgios e outras medidas.
 
@@ -193,7 +193,7 @@ A acrescentar ao problema atual, é sabido que as alterações climáticas irão
 
 
 ## Ajuda (6)
-Zona residêncial com bastante densidade populacional. Apesar de em média se situar a menos de 10 minutos do jardim mais próximo, acaba por por ser bastante afectada pelo efeito de ilha de calor.
+Zona residencial com bastante densidade populacional. Apesar de em média se situar a menos de 10 minutos do jardim mais próximo, acaba por por ser bastante afectada pelo efeito de ilha de calor.
 
 <center><img src="{{site.baseurl}}/assets/img/Ajuda.png" width="400" height="400"></center>
 <center>Ajuda</center>
