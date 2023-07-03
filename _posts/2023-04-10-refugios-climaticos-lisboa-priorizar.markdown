@@ -259,3 +259,6 @@ Este artigo foi reproduzido nos seguintes orgãos de comunicação social:
   <img src="https://media.timeout.com/images/106006534/750/422/image.jpg" width="310" height=220/>
 </a>
  
+## Reportagem Telejornal RTP
+<iframe src="https://drive.google.com/file/d/17kTFu0Z06hAuJJCdRVO_2l0kXQXBMBpm/preview" width="640" height="480" allow="autoplay"></iframe>
+
