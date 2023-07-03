@@ -262,3 +262,5 @@ Este artigo foi reproduzido nos seguintes orgãos de comunicação social:
 ## Reportagem Telejornal RTP
 <iframe src="https://drive.google.com/file/d/17kTFu0Z06hAuJJCdRVO_2l0kXQXBMBpm/preview" width="640" height="480" allow="autoplay"></iframe>
 
+## Entrevista Portugal em Directo RTP
+<iframe src="https://drive.google.com/file/d/1EfKYJZVISTc4m0jDnD6ZIvYMkLvFuqKv/preview" width="640" height="480" allow="autoplay"></iframe>
