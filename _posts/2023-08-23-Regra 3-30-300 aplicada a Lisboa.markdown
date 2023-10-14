@@ -3,10 +3,11 @@ layout: post
 title: Regra 3-30-300 aplicada a Lisboa
 date: 2023-08-23 00:00:00 +0300
 description: 🌳 A regra 3-30-300 diz o que qualquer pessoa deve conseguir ver da sua janela de casa e ter em redor para que o lugar onde vive seja resistente ao calor. Como se aplica a Lisboa?  # Add post description (optional)
-img: 3_30_300.png # Add image post (optional)
+img: fazercidade_3_30_300.png # Add image post (optional)
 tags: [alterações climáticas, mitigação, ciencia de dados, arvores, espaços verdes, Lisboa] # add tag
 ---
-Este é o primeiro artigo do coletivo Fazer Cidade, um grupo de pessoas que pretende pensar coletivamente Lisboa através de uma parceria com jornais locais e comunitários.
+Este é o primeiro artigo do coletivo Fazer Cidade, um grupo de pessoas que pretende pensar coletivamente Lisboa através de uma parceria com jornais locais e comunitários. 
+Fica a saber tudo em no site [Fazer Cidade](www.fazercidade.pt)
 
 Quais os edifícios de Lisboa que cumprem a regra:
 
