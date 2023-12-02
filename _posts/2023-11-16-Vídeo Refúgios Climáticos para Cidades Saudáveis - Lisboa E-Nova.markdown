@@ -3,7 +3,7 @@ layout: post
 title: Vídeo Refúgios Climáticos para Cidades Saudáveis - Lisboa E-Nova
 date: 2023-11-16 00:00:00 +0300
 description: Vídeo de palestra sobre a ciência de dados aplicada a cidades e como os dados podem ajudar a priorizar intervenções que promovam cidades mais saudáveis.  # Add post description (optional)
-img: refugios_lisboa_enova.png # Add image post (optional)
+img: refugios_lisboa_enova.jpg # Add image post (optional)
 tags: [alterações climáticas, mitigação, ciencia de dados, arvores, espaços verdes, Lisboa] # add tag
 ---
 
