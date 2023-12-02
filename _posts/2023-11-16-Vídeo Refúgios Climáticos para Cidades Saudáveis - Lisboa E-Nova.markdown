@@ -16,10 +16,4 @@ Iremos abordar como a ciência de dados pode ser uma ferramenta crucial na ident
 
 Vídeo abaixo:
 
-
-<iframe width="800" height="480" src="https://www.youtube.com/watch?v=uo9SuqAalhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uo9SuqAalhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uo9SuqAalhs?si=VN9dXNdc1xg8--6O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
