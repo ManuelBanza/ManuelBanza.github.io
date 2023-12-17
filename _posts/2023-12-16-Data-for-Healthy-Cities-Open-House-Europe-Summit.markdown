@@ -17,4 +17,4 @@ The second discussion will focus on Sustainability in Urban Planning, moderated 
 
 Vídeo abaixo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/live/4sDlPFxIBF4?si=SRRmtAIUgqRk_JyB&t=479" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4sDlPFxIBF4?si=wS0WHJXQKxgWfu0B&amp;start=479" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
