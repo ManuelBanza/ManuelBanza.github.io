@@ -7,7 +7,7 @@ img: fazercidade_3_30_300.png # Add image post (optional)
 tags: [alterações climáticas, mitigação, ciencia de dados, arvores, espaços verdes, Lisboa] # add tag
 ---
 Este é o primeiro artigo do coletivo Fazer Cidade, um grupo de pessoas que pretende pensar coletivamente Lisboa através de uma parceria com jornais locais e comunitários. 
-Fica a saber tudo em no site [Fazer Cidade](www.fazercidade.pt)
+Fica a saber tudo em no site [Fazer Cidade](https://fazercidade.pt/)
 
 Quais os edifícios de Lisboa que cumprem a regra:
 
