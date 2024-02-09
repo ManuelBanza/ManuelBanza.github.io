@@ -15,6 +15,6 @@ A segunda discussão terá como foco Sustentabilidade no Planejamento Urbano, mo
 **EN:**
 The second discussion will focus on Sustainability in Urban Planning, moderated by an urban planner and the founder of Urbanistica Podcast, Mustafa Sherif. The discussion will feature data science enthusiast with expertise in urban mobility Manuel Banza, and architect and researcher Mariana Sanchez Salvador.
 
-Vídeo neste [LINK](https://www.youtube.com/embed/4sDlPFxIBF4?si=wS0WHJXQKxgWfu0B&amp;start=479) e abaixo:
+Vídeo neste [LINK](https://youtu.be/V10_S7Q-efM?si=Vn-1-PXwzbXfHYk-&t=159) e abaixo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4sDlPFxIBF4?si=wS0WHJXQKxgWfu0B&amp;start=479" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/V10_S7Q-efM?si=Vn-1-PXwzbXfHYk-&t=159" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
