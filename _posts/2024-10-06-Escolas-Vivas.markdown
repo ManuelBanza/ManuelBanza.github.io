@@ -20,7 +20,7 @@ Para ler o artigo completo clica na imagem abaixo:
 
  [![Escolas Vivas - Le Monde Diplomatique Edição Portuguesa](https://pt.mondediplo.com/squelettes/images/logo-enlong.svg)](https://pt.mondediplo.com/2024/10/escolas-vivas-de-espacos-escolares-a-centros-urbanos-multifuncionais-de-lisboa.html) &emsp;
 
-O artigo é um reusmo da minha tese de Mestrado em Urbanismo Próximo do IAAC (Institute for Advanced Architecture of Catalonia) Em Barcelona.
+O artigo é um resumo da minha tese de Mestrado em Urbanismo Próximo do IAAC (Institute for Advanced Architecture of Catalonia) Em Barcelona.
 Para descarregar e ler a tese completa  em Castelhano podes clicar no link abaixo:
 
 [Link para a tese Escolas Vivas - La transformación de Espacios Educativos en Centros Urbanos Multifuncionales de Lisboa](https://drive.google.com/file/d/1oUHV3YR07JjyvIKRWh9oFaJtsPw9nk9I/view?usp=sharing)
