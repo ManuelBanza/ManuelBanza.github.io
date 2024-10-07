@@ -2,7 +2,7 @@
 layout: post
 title: Escolas Vivas - Le Monde Diplomatique Edição Portuguesa
 date: 2024-10-06 00:00:00 +0300
-description: Nos últimos anos, Lisboa tem enfrentado desafios urbanos crescentes: falta de espaços públicos, agravamento do efeito de ilha de calor e crescente pressão imobiliária, que empurra para fora da cidade associações e cooperativas fundamentais para a coesão social. Como mitigar parte destes problemas sem grandes investimentos em novas infra-estruturas? A proposta foi testada noutras cidades: transformar as escolas públicas em centros multifuncionais abertos à comunidade. # Add post description (optional)
+description: 🌳Nos últimos anos, Lisboa tem enfrentado desafios urbanos crescentes: falta de espaços públicos, agravamento do efeito de ilha de calor e crescente pressão imobiliária, que empurra para fora da cidade associações e cooperativas fundamentais para a coesão social. Como mitigar parte destes problemas sem grandes investimentos em novas infra-estruturas? A proposta foi testada noutras cidades, transformar as escolas públicas em centros multifuncionais abertos à comunidade. # Add post description (optional)
 img: lemonde.jpg # Add image post (optional)
 tags: [escolas, comunidade, cooperativas, alterações climáticas, mitigação, gentrificacao, Lisboa] # add tag
 ---
